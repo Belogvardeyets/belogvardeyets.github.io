@@ -24,12 +24,6 @@ http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Meak2y4.png",viju TV1000 russkoe
 http://stream1.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YoNOFu7.png" ,viju+ Comedy (1080p)
-http://77.235.1.17/vip_comedy/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/klRvhR5.png",viju+ Premiere (1080p)
-http://77.235.1.17/vip_premier/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2277.png",RU TV (HD)
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 
