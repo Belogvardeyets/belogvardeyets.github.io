@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/ru2.xml.gz"
+#EXTM3U url-tvg="http://epg.one/epg2.xml"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T4A6rEI.png",ТНТ
 http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
