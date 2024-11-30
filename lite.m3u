@@ -1,8 +1,5 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T4A6rEI.png",ТНТ
-http://91.224.169.250:5000/c72
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png",National Geographic Wild
 http://stream02.vnet.am/NatGeoWild/mono.m3u8
 
@@ -15,6 +12,9 @@ https://bl.rutube.ru/livestream/9f96e00ce0f4256c6ad608aaf580bf88/index.m3u8?s=qI
 #EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://iptvx.one/picons/discovery-channel.png",Discovery (HD)
 http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
 
+#EXTINF:-1 tvg-logo="http://only4.tv/ch/102.png" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_66_1_70_1680000_0_0_0.png" tvg-id="avto-plus",Авто плюс
+http://5.137.203.130:1234/udp/233.7.70.13:5000
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZMsyjSr.png",viju TV1000
 http://stream1.cinerama.uz/1058/tracks-v1a1/mono.m3u8
 
@@ -23,6 +23,16 @@ http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Meak2y4.png",viju TV1000 russkoe
 http://stream1.cinerama.uz/1059/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3FP1Cyw/logo-tnt-s.jpg" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_527_D_70_1680000_0_0_0.png" tvg-id="tnt",ТНТ
+http://5.137.203.130:1234/udp/225.54.223.174:5000
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3FP1Cyw/logo-tnt-s.jpg" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_527_D_70_1680000_0_0_0.png" tvg-id="tnt",ТНТ
+http://5.137.203.130:1234/udp/225.54.223.175:5000
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3FP1Cyw/logo-tnt-s.jpg" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_527_D_70_1680000_0_0_0.png" tvg-id="tnt",ТНТ
+http://5.137.203.130:1234/udp/225.54.205.147:5000
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3FP1Cyw/logo-tnt-s.jpg" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_527_D_70_1680000_0_0_0.png" tvg-id="tnt",ТНТ
+http://5.137.203.130:1234/udp/225.54.205.167:5000
+
 
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2277.png",RU TV (HD)
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
