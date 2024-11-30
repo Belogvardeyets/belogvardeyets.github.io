@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T4A6rEI.png",ТНТ
-http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
+http://91.224.169.250:5000/c72
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png",National Geographic Wild
 http://stream02.vnet.am/NatGeoWild/mono.m3u8
@@ -53,4 +53,10 @@ http://77.235.1.17/vip_comedy/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/klRvhR5.png",viju+ Premiere (1080p)
 http://77.235.1.17/vip_premier/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.one/img2/2277.png",RU TV (HD)
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/pervy.png",Первый (HD ready)
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
