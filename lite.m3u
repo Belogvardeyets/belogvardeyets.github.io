@@ -6,6 +6,12 @@ http://stream02.vnet.am/NatGeoWild/mono.m3u8
 #EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://iptvx.one/picons/national-geographic.png",National Geographic (EDTV 576p)
 http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://iptvx.one/picons/national-geographic.png",National Geographic (2)
+http://185.50.148.2:7707/NationalGeographic/index.m3u8
+
+#EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://iptvx.one/picons/national-geographic.png",National Geographic (3)
+http://srv-5-streaming.iptvin.fun:34768/national_geographic_hd/video.m3u8?
+
 #EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://iptvx.one/picons/discovery-channel.png",Discovery (HD)
 http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
 
