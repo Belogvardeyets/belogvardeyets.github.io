@@ -299,7 +299,7 @@ http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="nano-hd" tvg-logo="https://iptvx.one/picons/nano-hd.png" group-title="Познавательные",Nano (HD)
 http://185.23.80.28:8080/NANO_HD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://iptvx.one/picons/national-geographic.png" group-title="Познавательные",National Geographic (HD)
-http://95.141.225.78:4022/udp/233.49.170.105:5000
+https://bl.rutube.ru/livestream/9f96e00ce0f4256c6ad608aaf580bf88/index.m3u8?s=HKEQXv5lSRukzsf0z8O4Mg&e=1736802257&scheme=https
 
 #EXTINF:-1 tvg-id="nat-geo-wild" tvg-logo="https://iptvx.one/picons/nat-geo-wild.png" group-title="Познавательные",Nat Geo Wild (EDTV 576p)
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
