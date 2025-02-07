@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SOUNDPARK DEEP" tvg-logo="https://vote.mediastata.com/logos/16/pfm.png",SOUNDPARK DEEP
+https://relay1.radiotoolkit.com/spdeep
+
+#EXTINF:-1 tvg-id="Питер FM" tvg-logo="https://www.spdeep.com/favicon.ico",Питер FM
+https://icecast-piterfm.cdnvideo.ru/piterfm
+
+#EXTINF:-1 tvg-id="Monte Carlo" tvg-logo="https://montecarlo.ru/_nuxt/img/26f497b.svg",Monte Carlo
+https://montecarlo.hostingradio.ru/montecarlo96.aacp
