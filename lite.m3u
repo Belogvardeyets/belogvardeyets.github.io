@@ -1,17 +1,19 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 group-title="Развлекательные",ТНТ (+4)
+#EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
+#EXTINF:-1 group-title="THT",ТНТ (+4)
 #EXTVLCOPT:http-user-agent=DuneHD/1.0.3
 http://hls.peers.tv/streaming/tnt/16/g2500/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные",ТНТ HD
-#EXTVLCOPT:http-user-agent=DuneHD/1.0.3
-http://hls.peers.tv/streaming/tnt_hd/16/copy_a/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.ibb.co/3FP1Cyw/logo-tnt-s.jpg" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16" tvg-id="tnt",ТНТ
+
+#EXTINF:-1 group-title="THT" tvg-logo="https://i.ibb.co/3FP1Cyw/logo-tnt-s.jpg" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16" tvg-id="tnt",ТНТ
 http://5.137.196.239:1234/udp/225.54.223.174:5000
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.ibb.co/3FP1Cyw/logo-tnt-s.jpg" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16" tvg-id="tnt",ТНТ
+#EXTINF:-1 group-title="THT" tvg-logo="https://i.ibb.co/3FP1Cyw/logo-tnt-s.jpg" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16" tvg-id="tnt",ТНТ
 http://5.137.196.239:1234/udp/225.54.223.175:5000
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.ibb.co/3FP1Cyw/logo-tnt-s.jpg" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16" tvg-id="tnt",ТНТ
+#EXTINF:-1 group-title="THT" tvg-logo="https://i.ibb.co/3FP1Cyw/logo-tnt-s.jpg" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16" tvg-id="tnt",ТНТ
 http://5.137.196.239:1234/udp/225.54.205.147:5000
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.ibb.co/3FP1Cyw/logo-tnt-s.jpg" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16" tvg-id="tnt",ТНТ
+#EXTINF:-1 group-title="THT" tvg-logo="https://i.ibb.co/3FP1Cyw/logo-tnt-s.jpg" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16" tvg-id="tnt",ТНТ
 http://5.137.196.239:1234/udp/225.54.205.167:5000
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.ibb.co/FqyWv9L/tht4.jpg" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_71C_12_70_1680000_0_0_0.png" channelId="77" tvg-id="tnt4",ТНТ4
+#EXTINF:-1 group-title="THT" tvg-logo="https://i.ibb.co/FqyWv9L/tht4.jpg" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_71C_12_70_1680000_0_0_0.png" channelId="77" tvg-id="tnt4",ТНТ4
 http://5.137.196.239:1234/udp/225.54.23.227:5000
+
+#EXTINF:-1 group-title="IPTV" 
+https://smolnp.github.io/IPTVru//IPTVru.m3u
+
