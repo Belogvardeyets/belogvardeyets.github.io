@@ -2,13 +2,13 @@
 #EXTINF:-1 tvg-id="SOUNDPARK DEEP" tvg-logo="https://vote.mediastata.com/logos/16/pfm.png",SOUNDPARK DEEP
 https://relay1.radiotoolkit.com/spdeep
 
-#EXTINF:-1 tvg-id="Русский Рок" tvg-logo="https://topradio.mobi/screen/1630414047_russkii_rok_moskva_rossiya.jpg",Русский Рок
+#EXTINF:-1 tvg-id="Russian Rock" tvg-logo="https://topradio.mobi/screen/1630414047_russkii_rok_moskva_rossiya.jpg",Russian Rock
 http://rock.volna.top/RusRock
 
-#EXTINF:-1 tvg-id="Питер FM" tvg-logo="https://www.spdeep.com/favicon.ico",Питер FM
+#EXTINF:-1 tvg-id="Peter FM" tvg-logo="https://www.spdeep.com/favicon.ico",Peter FM
 https://icecast-piterfm.cdnvideo.ru/piterfm
 
-#EXTINF:-1 tvg-id="Питер FM" tvg-logo="https://www.spdeep.com/favicon.ico",Питер FM Хабаровск
+#EXTINF:-1 tvg-id="Peter FM" tvg-logo="https://www.spdeep.com/favicon.ico",Peter FM Habarovsk
 http://a1.radioheart.ru:8001/RH74578
 
 #EXTINF:-1 tvg-id="Monte Carlo" tvg-logo="https://montecarlo.ru/rx/1000x700,c_1,g_CenterCenter/uploads/10/94/adee9ed345c1b9e4078306e37a95.png",Monte Carlo
