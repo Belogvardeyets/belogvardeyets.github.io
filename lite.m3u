@@ -1,10 +1,388 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
+#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="https://iptvx.one/epg/epg_lite.xml.gz" refresh="86400" tvg-shift=0 cache=500
+#EXTINF:-1 tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/09/6aa9cadebedaac4d2527b8ed8f1c0017.png",-rutube 27.02 16:07 channels 254 iptvin.ru
+http://overlay.iptvin.fun/iptvin.ru.mp4
 
-#EXTINF:-1 group-title="THT" tvg-logo="https://i.ibb.co/3FP1Cyw/logo-tnt-s.jpg" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16" tvg-id="tnt",ТНТ
-http://5.137.196.239:1234/udp/225.54.205.167:5000
+https://bl.rutube.ru/livestream/3bbbfe178e58ca0830a701e0624f20d8/index.m3u8?s=AmWypGHYbRfXGgYj5y1adg&e=1740733395&scheme=https
+#EXTINF:-1 group-title="Музыкальные",K-POP TV
+https://bl.rutube.ru/livestream/2d0e8f000ed430b793d8683db0f1a77f/index.m3u8?s=nV685kvlhfPEdS4Nnpd8Bg&e=1740733602&scheme=https
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1381996579587.png" logo="http://img12.lostpic.net/2018/05/12/6c79d63cd4718dcfc1bd9ab8962c95a8.png" channelId="1484",MTV HD
+https://bl.rutube.ru/livestream/2e8d2bd1b1c868b180482ae78cc98dce/index.m3u8?s=e0PI7H-kudo7PlWGn7V8mg&e=1740733601&scheme=https
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1381996579587.png" logo="http://img12.lostpic.net/2018/05/12/6c79d63cd4718dcfc1bd9ab8962c95a8.png" channelId="1484",MTV HD
+https://bl.rutube.ru/livestream/e317f86bd2b387c47ea25cc319e31cd2/index.m3u8?s=-_BvhYDOIFVO-ZubiPq_ZA&e=1740733602&scheme=https
+#EXTINF:-1 group-title="Музыкальные",NOW Rock
+https://bl.rutube.ru/livestream/047ba54d846ee185b4209a797a2ae138/index.m3u8?s=EO9AG0t2iVZ8drPhg7w59A&e=1740733601&scheme=https
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="http://s5.uploads.ru/t/j4NJe.jpg" channelId="3548",Rock TV
+https://bl.rutube.ru/livestream/516fbcaf6d1634677cb04701d2207e54/index.m3u8?s=zXA_IvjBUQV01Gjea5E0Zw&e=1740733603&scheme=https
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://kress.de/typo3temp/_processed_/csm_viva-hd_cfb6d09e09.jpg" logo="https://i.ibb.co/BsdX5BP/VIVA-Russia-HD-640x384-tr.png" channelId="984" tvg-id="viva-rus",VIVA Russia HD
+https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=IRUMF8Y_HiEEMt7TayTRMA&e=1740733442&scheme=https
+#EXTINF:-1 group-title="Музыкальные",Zerouno TV Music
+https://bl.rutube.ru/livestream/9938816973f0cd8df5bcd5ecaab0a387/index.m3u8?s=SvoFNT-pUuDf0JoHrfI2xg&e=1740733604&scheme=https
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://tv.nalench.com/uploads/screenshots/muz_tv.jpg" logo="https://runigma.com.ua/EPG/png/360e/1_0_16_521_D_70_1680000_0_0_0.png" channelId="136" tvg-id="muztv",МУЗ-ТВ
+https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=9jErWdrHM06rfKaAZh_QxQ&e=1740733386&scheme=https
+#EXTINF:-1 group-title="Музыкальные",Музыка Мода ТВ
+https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=GiUQaKSpl1QZSWW9WHruRQ&e=1740733603&scheme=https
+#EXTINF:-1 group-title="Музыкальные",Русский Корабль
+https://bl.rutube.ru/livestream/3ebc361db78373495974123cfb994531/index.m3u8?s=sTs0hxoudEOCtEoamW2Htw&e=1740733458&scheme=https
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://s3.dantsertv.ru/rosing-dantser-production/797605c639a14912da8e.jpg" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_52C_D_70_1680000_0_0_0.png" channelId="24" tvg-id="tnt-music",ТНТ MUSIC
+https://bl.rutube.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=SKue1OSxuNK1-BYWwczKZw&e=1740733455&scheme=https
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://s3.dantsertv.ru/rosing-dantser-production/797605c639a14912da8e.jpg" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_52C_D_70_1680000_0_0_0.png" channelId="24" tvg-id="tnt-music",ТНТ MUSIC
+https://bl.rutube.ru/livestream/f5ba23a0149f409c18168231844e0a3b/index.m3u8?s=8ElOq92tesrGag-CsGUHng&e=1740733447&scheme=https
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/801.png" logo="https://i.ibb.co/4WYYFPR/Animal-Planet-220x132-tr.png" channelId="50" tvg-id="animal-planet",Animal Planet
+https://bl.rutube.ru/livestream/d73e70070a806f9baf6e662f6cc40665/index.m3u8?s=OYwoY3jtEzWOoQFdvcQMIQ&e=1740733654&scheme=https
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://tv.nalench.com/uploads/screenshots/discovery_science.jpg" logo="https://i.postimg.cc/XJtq8XQ3/c203877035aa0e2424c60d346307cf84.png" channelId="58" tvg-id="discovery-science",Discovery Science
+https://bl.rutube.ru/livestream/ca5c6dab1412bae2fd4545937ffa4c7b/index.m3u8?s=a61YNkIsRSiKQNsOW7fsaw&e=1740733666&scheme=https
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://www.sostav.ru/app/public/images/news/2014/03/12/FIRE_DC_HD_BLACK_RGB.jpg" logo="https://trinity-tv.net/storage/channels/dark_theme_336.png" channelId="341" tvg-id="discovery-channel",Discovery
+https://bl.rutube.ru/livestream/f61701b91f0f15e49611bc2c85494d4b/index.m3u8?s=nmIZ7Hx8SOCiX4e1g9NTdA&e=1740733653&scheme=https
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.one/img/2377.png" logo="http://overlay.iptvin.fun/epg/PIC/HGTV%20HD.png" channelId="1418" tvg-id="hgtv",HGTV
+https://bl.rutube.ru/livestream/e47323270d6128efe76594deede78394/index.m3u8?s=jW9UURXuMYnjI6RGRAtDjg&e=1740733441&scheme=https
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://hh.ru/employer-logo/2519610.png" logo="http://overlay.iptvin.fun/epg/PIC/%D0%9D%D0%B0%D0%BD%D0%BE HD.png" channelId="505" tvg-id="nano-hd",Nano HD
+https://bl.rutube.ru/livestream/c8e7b586ad7b53392745722f3e5104d9/index.m3u8?s=U38rOwolggibjq3kc2GZtA&e=1740733669&scheme=https
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/ZN3dRjL/Nano-220x220.png" logo="https://i.ibb.co/PmwY2SL/Nano-220x132-tr.png" channelId="260" tvg-id="nano-tv",Nano
+https://bl.rutube.ru/livestream/cf958b6c9ae4504be5fc2c1de358a017/index.m3u8?s=0m1aIduyvYSEVCYzYTvVgA&e=1740733670&scheme=https
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/19116.png" logo="https://i.ibb.co/XZq9ZWF/Nat-Geo-Wild-220x132-tr.png" channelId="164" tvg-id="nat-geo-wild",Nat Geo Wild
+https://bl.rutube.ru/livestream/c18137e3491619017f984f84598035ec/index.m3u8?s=INUJiI6ozfUf68ZrL9MSUw&e=1740733654&scheme=https
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://only4.tv/ch/813.png" logo="http://overlay.iptvin.fun/epg/PIC/National%20Geographic.png" channelId="56" tvg-id="national-geographic",National Geographic
+https://bl.rutube.ru/livestream/9f96e00ce0f4256c6ad608aaf580bf88/index.m3u8?s=XFx3mHC2PWQ4KkdS0IJ-tA&e=1740733653&scheme=https
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://tv.nalench.com/uploads/screenshots/rtd.jpg" logo="https://antifriz.tv/storage/images/channel_logos/rt-doc.png" channelId="3978" tvg-id="rtd-ru",RTД
+https://bl.rutube.ru/livestream/bb71a99e0ddc621322dafad338b96a3e/index.m3u8?s=uMDfbqEx53PRZyholy0thQ&e=1740733655&scheme=https
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://tv.nalench.com/uploads/screenshots/rtd.jpg" logo="https://antifriz.tv/storage/images/channel_logos/rt-doc.png" channelId="3978" tvg-id="rtd-ru",RTД
+https://bl.rutube.ru/livestream/d1eb5756f77825451cc9d129bf5607b0/index.m3u8?s=fGd0sL4lOy99yzpHjsQwvQ&e=1740733651&scheme=https
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/h7J402X/0781d6416caad1c72db1f82841bba729.png" logo="https://i.ibb.co/H7Nyx0G/f3c94d89ff44f30787fb03a1c8aa1ae6.png" channelId="4439" tvg-id="travel-xp-hd",Travel XP
+https://bl.rutube.ru/livestream/557da6ebde03361969d62432ce584935/index.m3u8?s=qiBzBiOtMjTXDt9YbiUaLw&e=1740733451&scheme=https
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1478000373926.png" logo="https://img15.lostpic.net/2020/04/08/0555abee58a67d96d24d6f55fd1315ca.png" channelId="1763" tvg-id="univer-tv",UNIVER TV
+https://bl.rutube.ru/livestream/2372550cb9fd4b970a274ebec6c71839/index.m3u8?s=yjOFTsJ3DOsDfa6XqlD3jg&e=1740733455&scheme=https
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/vXBKXRj/Zagorodniy-220x220.png" logo="https://i115.fastpic.org/big/2021/0914/38/23ad3af058423f8340f88d4a6da02838.png" channelId="389" tvg-id="zagorodny",Загородный
+https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=3O_hgMiB7gfWkSYgGjfhAQ&e=1740733448&scheme=https
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1604054297280.png" channelId="3977" tvg-id="ratnik",Ратник
+https://bl.rutube.ru/livestream/13b0320238d7938a2deffb4065068986/index.m3u8?s=ULODhm-NrN2vS0MnctyILw&e=1740733663&scheme=https
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/6mwF3W6/11f461d827ce1305644405dd1de859bb.jpg" logo="https://i.postimg.cc/mZMg4Lmz/6661c7eacddb3aeb6cc5c0195961d339.png" channelId="3136" tvg-name="Царьград",Царьград
+https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=NBDDKb3pW3CnDoyBG6zCHA&e=1740733392&scheme=https
+#EXTINF:-1 group-title="Радио" tvg-logo="https://cdn0.deti.fm/design/images/img_for_design/dr-logo.png" channelId="-1",Детское радио
+https://bl.rutube.ru/livestream/bf296006751f4344e359b3b5dc70be25/index.m3u8?s=CAjPaqyE364bgVa4XHP3Pw&e=1740733444&scheme=https
+#EXTINF:-1 group-title="Радио",Классное Радио Движения Первых
+https://bl.rutube.ru/livestream/b058c213ffe75fa551574810ab0adb39/index.m3u8?s=kbLHL1NVN8JCq_5JbDRWQA&e=1740733456&scheme=https
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.ibb.co/S3fJTns/024614b06bdfdc2444ef5229fab8773c.png" logo="https://i.ibb.co/9YYnQ40/22654940aeed4b5e8654e5c870d2915a.png" channelId="14" tvg-id="2na2",2х2
+https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=nbiF-TCCM3EfrK29ZidsYg&e=1740733387&scheme=https
+#EXTINF:-1 group-title="Развлекательные",5-Minute Crafts TV
+https://bl.rutube.ru/livestream/f43cbeba52d89032d98ffa15eda69318/index.m3u8?s=-7vDIJm1S7lhs6DxKq6Swg&e=1740733453&scheme=https
+#EXTINF:-1 group-title="Развлекательные",FailArmy TV
+https://bl.rutube.ru/livestream/2f91dfa7f50aa0cae41dd5d256fdc1ef/index.m3u8?s=p_y5AhOJXqyLV86XTOxyGg&e=1740733448&scheme=https
+#EXTINF:-1 group-title="Развлекательные",Hunt Fish TV
+https://bl.rutube.ru/livestream/9faeeb8f8896f6d04517c7d77fdf5e51/index.m3u8?s=evFAHHAdgwjCs3p2QR2xaA&e=1740733455&scheme=https
+#EXTINF:-1 group-title="Развлекательные",TEAM LIQUID TV
+https://bl.rutube.ru/livestream/eb15a1e814b08c3cfc0e555dbb54e4a4/index.m3u8?s=OkvRVlkGMDoaWYP4DBkq6g&e=1740733453&scheme=https
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.ibb.co/tmC9Btj/TLC-189x189.jpg" logo="http://overlay.iptvin.fun/epg/PIC/TLC.png" channelId="67" tvg-id="tlc",TLC
+https://bl.rutube.ru/livestream/4642339b773730b6bed09b2f404747de/index.m3u8?s=p58rI0lQlARugWrS0mW4aA&e=1740733440&scheme=https
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.ibb.co/tmC9Btj/TLC-189x189.jpg" logo="http://overlay.iptvin.fun/epg/PIC/TLC.png" channelId="67" tvg-id="tlc",TLC
+https://bl.rutube.ru/livestream/8c3fd60f7eb84e7b564d3029d2a833f5/index.m3u8?s=2qfiXKe3uz9Bv7TpZNVP6w&e=1740733452&scheme=https
+#EXTINF:-1 group-title="Развлекательные",WORLD FISHING NETWORK
+https://bl.rutube.ru/livestream/88860091dc5125b1b5cd266988d5be74/index.m3u8?s=92OuYYH-5aV5pT7aO8-_mg&e=1740733442&scheme=https
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/09/WF_logo_BLACK_2017.jpg" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_52A_D_70_1680000_0_0_0.png" channelId="258" tvg-id="world-fashion-channel",World Fashion Channel
+https://bl.rutube.ru/livestream/ee6a3d5ba98066c2aaace3c428a3170c/index.m3u8?s=yqDGU9X1uU7ctoYpFTOg2g&e=1740733444&scheme=https
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://line-new.ru/upload/iblock/ba4/ba452fb7896fd67bc76d36ba384517a6.jpg" channelId="3975" tvg-id="vostok-tv",Восток ТВ
+https://bl.rutube.ru/livestream/da7bcfc0c302a2f0a46f030c9ef8a02b/index.m3u8?s=BEouIOychEbiQN7UK6TkGA&e=1740733440&scheme=https
+#EXTINF:-1 group-title="Развлекательные",ГУСТОТВ ТВ
+https://bl.rutube.ru/livestream/b9d9ee1a50e70df28f8531cb11e4d3a9/index.m3u8?s=ydYic6a9butRri2l4fX51g&e=1740733450&scheme=https
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.postimg.cc/0y9RfqVm/db1f2a85aaf965f548bb1da9c85eda89.png" logo="https://i.postimg.cc/1XD2GW6J/b8dbbaf75b71a354d28fd8c8d5ab1d4c.png" channelId="936" tvg-id="zhar-ptica",Жар Птица
+https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=qXm8K5qGOgS0z1836am4tA&e=1740733603&scheme=https
+#EXTINF:-1 group-title="Развлекательные",Кино и Жизнь
+https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=ZZsVVr9lDTfKatekdszceA&e=1740733452&scheme=https
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.ibb.co/cDZd5yJ/67efdf96655dfd50a1a29ab027ce9bbd.png" logo="https://i.ibb.co/3dkJXWv/6b2a7fd7cd4d65ab96784fee692c2ea1.png" channelId="300" tvg-id="oxotnik-i-rybolov-hd",Охотник и рыболов
+https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=LzpIJrkr6RylfFhxiciiuA&e=1740733439&scheme=https
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.postimg.cc/7YGX6SRb/16638cc3be4acfe210849f8a64251ce1.png" logo="https://i.ibb.co/H2XvcJX/Pyatnica-220x132-tr.png" channelId="26" tvg-id="piatnica",Пятница
+https://bl.rutube.ru/livestream/81aeead14f62fafe23969eea047b3897/index.m3u8?s=4dVebtBA3BfD414Mk4E61Q&e=1740733384&scheme=https
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.postimg.cc/7YGX6SRb/16638cc3be4acfe210849f8a64251ce1.png" logo="https://i.ibb.co/H2XvcJX/Pyatnica-220x132-tr.png" channelId="26" tvg-id="piatnica",Пятница
+https://bl.rutube.ru/livestream/81aeead14f62fafe23969eea047b3897/index.m3u8?s=4dVebtBA3BfD414Mk4E61Q&e=1740733384&scheme=https
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.postimg.cc/7YGX6SRb/16638cc3be4acfe210849f8a64251ce1.png" logo="https://i.ibb.co/H2XvcJX/Pyatnica-220x132-tr.png" channelId="26" tvg-id="piatnica",Пятница
+https://bl.rutube.ru/livestream/81aeead14f62fafe23969eea047b3897/index.m3u8?s=V0-w2zRoGccMA78MZXI8nw&e=1740733652&scheme=https
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.ibb.co/ySYJLPd/ctc-logo-01.jpg" logo="https://chas.tv/img/channel/sts.png" channelId="12" tvg-id="sts",СТС
+https://bl.rutube.ru/livestream/ffc110c6785e57f4c329179b555547b4/index.m3u8?s=jtmBfp8OBML0bD5RuU-FBQ&e=1740733388&scheme=https
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.ibb.co/bWrxCmQ/034-subbota.jpg" logo="https://i.ibb.co/kJdxCgQ/Subbota-220x132-tr.png" channelId="3876" tvg-id="super" shift="3",Суббота!
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=OixPqpjX2EYQUxqWXmlSGg&e=1740733390&scheme=https
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.ibb.co/3FP1Cyw/logo-tnt-s.jpg" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16" tvg-id="tnt",ТНТ
+https://bl.rutube.ru/livestream/f02b63bc8f0ed4dba04bbfce4a1119c5/index.m3u8?s=CWmvmhRe5EVj_g-zCEPtcQ&e=1740733461&scheme=https
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.ibb.co/3FP1Cyw/logo-tnt-s.jpg" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16" tvg-id="tnt",ТНТ
+https://bl.rutube.ru/livestream/f02b63bc8f0ed4dba04bbfce4a1119c5/index.m3u8?s=a5JY9t0uAhRYHMTegtEKsg&e=1740733383&scheme=https
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.ibb.co/3FP1Cyw/logo-tnt-s.jpg" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_527_D_70_1680000_0_0_0.png" channelId="16" tvg-id="tnt",ТНТ
+https://bl.rutube.ru/livestream/f02b63bc8f0ed4dba04bbfce4a1119c5/index.m3u8?s=a5JY9t0uAhRYHMTegtEKsg&e=1740733383&scheme=https
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.ibb.co/FqyWv9L/tht4.jpg" logo="http://overlay.iptvin.fun/epg/PIC/1_0_16_71C_12_70_1680000_0_0_0.png" channelId="77" tvg-id="tnt4",ТНТ4
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=_cx7yAoCBDRMOkLaLtk6QA&e=1740733385&scheme=https
+#EXTINF:-1 group-title="Развлекательные",Тайна ТВ
+https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=mBEEYLqgfDT7-zGaG4tg8Q&e=1740733457&scheme=https
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://uz-tv.net/storage/images/iptv/channels/479.jpg" channelId="23" tvg-id="yu",Ю-ТВ
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=QDgPxP_zmRSyl7-ozEGSbA&e=1740733387&scheme=https
+#EXTINF:-1 group-title="Релакс",Relax Nature
+https://bl.rutube.ru/livestream/0b42c5881c3446eede3af34b57538de5/index.m3u8?s=-XD0w_krgJ8XAMx3Jx2JNw&e=1740733667&scheme=https
+#EXTINF:-1 group-title="Релакс",Relax Nature
+https://bl.rutube.ru/livestream/420654c698dce9f03390d32aaf210cdc/index.m3u8?s=oANz7WzDFp0PROyDEy5Xww&e=1740733448&scheme=https
+
+#EXTINF:-1 group-title="Без группы",RUTUBE TV
+https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=eg8iIF-4yn7Q1cFJIBZ3-g&e=1740733439&scheme=https
+#EXTINF:-1 group-title="Без группы",Racing
+https://bl.rutube.ru/livestream/91f864be2fa47460ab516591425c91e6/index.m3u8?s=m7Fz6ppUzGNfrRc_IIaQsw&e=1740733553&scheme=https
+
+#EXTINF:-1 group-title="Без группы",Ужас TV Фильмы на Русском
+https://bl.rutube.ru/livestream/696bffe7b7be44aa1c64fda33c2cff5c/index.m3u8?s=YVYeEEPy9H2wH4maFt0ZVw&e=1740733464&scheme=https
+#EXTINF:-1 group-title="Без группы",ФильмоМулт MIX TV на Русском
+https://bl.rutube.ru/livestream/2065f0c2f351781b4ea0aa2c1d453f9c/index.m3u8?s=NfzMnt1jagfmn3IvYngtQQ&e=1740733466&scheme=https
+#EXTINF:-1 group-title="Без группы",Фильмы на Русском MIX
+https://bl.rutube.ru/livestream/5cba95431cbe796297c0fceb54d8edbd/index.m3u8?s=beZM5L9E0kxerzAKdxwsQw&e=1740733467&scheme=https
+#EXTINF:-1 group-title="Без группы",Фильмы получившие Оскар на Русском языке
+https://bl.rutube.ru/livestream/3b0fa3a71bd3f9c4857313447d32109f/index.m3u8?s=zeFw_CkC6Hr7VTRxqBETbQ&e=1740733437&scheme=https
+#EXTINF:-1 group-title="Без группы",ЭфирФильм на Русском
+https://bl.rutube.ru/livestream/b895807523d756c82bd64c800edc93c6/index.m3u8?s=LJQ2_afuL4bI9rgHlTbKOw&e=1740733466&scheme=https
 
 
+#EXTINF:-1 group-title="Музыка",RU.TV
+http://hls.peers.tv/streaming/rutv/16/tvrec/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",365 Дней
+http://hls.peers.tv/streaming/365_days/16/tvrecw/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",Da Vinci learning
+hhttps://hls.peers.tv/streaming/da_vinci/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",FoodTime
+http://hls.peers.tv/streaming/eda_hd/16/copy_a/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",Galaxy
+http://hls.peers.tv/streaming/galaxy_tv/16/vh1w/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",Museum HD
+http://hls.peers.tv/streaming/museum_hd/16/copy_a/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",Russia Today Doc
+http://hls.peers.tv/streaming/russia_today_doc/126/copy_a/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",Russian Travel Guide
+http://hls.peers.tv/streaming/rustravel/16/copy/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",The Explorers
+http://hls.peers.tv/streaming/the_explorers/16/tvrecw/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",Travel+Adventure
+http://hls.peers.tv/streaming/travad/16/tvrecw/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",Travel+Adventure HD
+http://hls.peers.tv/streaming/travel_adventure_hd/16/copy/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",Viasat Explore
+hhttps://hls.peers.tv/streaming/viasat_explorer/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Viasat History
+https://hls.peers.tv/streaming/viasat_history/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Viasat Nature
+https://hls.peers.tv/streaming/viasat_nature/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",ZooПарк
+http://hls.peers.tv/streaming/zoopark/126/tvrec/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",Бобёр
+http://hls.peers.tv/streaming/bobyor/16/tvrec/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",Большая Азия
+https://hls.peers.tv/streaming/bolshaya_aziya/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",В мире животных HD
+http://hls.peers.tv/streaming/animal_family_hd/16/tvrec/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",Время
+http://hls.peers.tv/streaming/time/16/gvh1w/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",Глазами Туриста HD
+http://hls.peers.tv/streaming/glazami_turista_hd/16/tvrecw/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",Доктор
+http://hls.peers.tv/streaming/24doc/16/tvrecw/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",ЕГЭ
+http://hls.peers.tv/streaming/ege/16/vh1/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",Живая планета
+http://hls.peers.tv/streaming/zhivaya_planeta/16/gvh1w/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",Живая природа HD
+http://hls.peers.tv/streaming/zhivaya_priroda_hd/16/h1080/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",Живи активно HD
+http://hls.peers.tv/streaming/zhivi_aktivno_hd/16/tvrecw/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",Живи
+https://hls.peers.tv/streaming/jv/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Загородная жизнь
+http://hls.peers.tv/streaming/zagorod_zh/16/tvrecw/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",Зоо ТВ
+http://hls.peers.tv/streaming/zoo_tv/16/tvrecw/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",Индия
+https://hls.peers.tv/streaming/zee-tv/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Красная линия
+http://hls.peers.tv/streaming/red_line/126/variable.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",Кухня ТВ
+https://hls.peers.tv/streaming/kitchentv/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Мир увлечений
+http://hls.peers.tv/streaming/mir_uvlecheniy/16/gvh1w/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",Моя Планета
+http://hls.peers.tv/streaming/my_planet/16/gvh1w/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",НАШ ДОМ
+http://hls.peers.tv/streaming/nash_dom/16/tvrecw/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",НТВ Право
+http://hls.peers.tv/streaming/ntv_pravo/16/tvrecw/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",Нано
+http://hls.peers.tv/streaming/nano_tv/126/vh1w/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",Наука HD
+https://hls.peers.tv/streaming/nauka_20/16/copy_a/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Открытый Мир
+http://hls.peers.tv/streaming/open_mir/16/tvrecw/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",Первый вегетарианский
+http://hls.peers.tv/streaming/pervyy_vegetarianskiy/16/copy/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",Победа
+http://hls.peers.tv/streaming/pobeda/16/h1080/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",Поехали!
+http://hls.peers.tv/streaming/poehali/16/copy/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",Приключения HD
+http://hls.peers.tv/streaming/teleputeshestvija_hd/16/tvrec/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",Про Жизнь
+http://hls.peers.tv/streaming/pro_zhizn/16/copy/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",Продвижение
+http://hls.peers.tv/streaming/prodvizhenie/16/copy/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",Психология
+http://hls.peers.tv/streaming/psych_21/16/tvrecw/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",Ратник
+http://hls.peers.tv/streaming/ratnik/126/copy/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",Телекафе
+http://hls.peers.tv/streaming/telekafe/16/gvh1w/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",Телепутешествия
+http://hls.peers.tv/streaming/teleputeshestviya/16/tvrecw/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",Техно 24
+http://hls.peers.tv/streaming/24techno/16/tvrecw/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",Усадьба
+http://hls.peers.tv/streaming/usadba/16/tvrecw/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Познавательные",Успех
+https://hls.peers.tv/streaming/uspex/16/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Центральное телевидение
+http://hls.peers.tv/streaming/tvc_ctv/126/tvrecw/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:?94200727740l tvg-id="2na2-pl4" group-title="Развлекательные",2x2 (+4)
+http://hls.peers.tv/streaming/2x2tv/16/variable.m3u8|User-Agent="DuneHD/1.0.3"
 
-#EXTINF:-1 group-title="IPTV" 
-https://smolnp.github.io/IPTVru//IPTVru.m3u
+#EXTINF:-1 group-title="Развлекательные",ТНТ (+4)
+http://hls.peers.tv/streaming/tnt/16/g2500/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Развлекательные",ТНТ HD
+http://hls.peers.tv/streaming/tnt_hd/16/copy_a/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Развлекательные",ТНТ4 (+4)
+http://hls.peers.tv/streaming/tnt4/16/variable.m3u8|User-Agent="DuneHD/1.0.3"
 
+#EXTINF:-1 group-title="Федеральные",Первый
+http://hls.peers.tv/streaming/1kanal/126/variable.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Федеральные",Первый HD
+http://hls.peers.tv/streaming/1kanal_hd/16/copy_a/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 tvg-id="5kanal-ru-pl4" group-title="Федеральные",Пятый (+4)
+http://hls.peers.tv/streaming/5kanal/16/gvh1w/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 tvg-id="rentv-pl4" group-title="Федеральные",Рен ТВ (+4)
+http://hls.peers.tv/streaming/rentv/16/g2500/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Федеральные",Россия 1 (+4)
+http://hls.peers.tv/streaming/rossija/16/tvrecw/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Федеральные",Россия HD
+http://hls.peers.tv/streaming/russiahd/16/h1080/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 tvg-id="rossia-k" tvg-shift=-4 group-title="Федеральные",Россия К (+4)
+http://hls.peers.tv/streaming/kultura/16//variable.m3u8|User-Agent="DuneHD/1.0.3"
+
+#EXTINF:-1 group-title="Фильмы",Amedia 1
+http://hls.peers.tv/streaming/amedia1/16/h1080/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Amedia HIT
+http://hls.peers.tv/streaming/amedia_hit/16/copy_a/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Amedia Premium HD
+http://hls.peers.tv/streaming/amediapremium_hd/16/copy_a/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",AnimeTV
+http://hls.peers.tv/streaming/animetv/16/copy/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Cinema
+http://hls.peers.tv/streaming/ipark/16/copy/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",DIZI
+http://hls.peers.tv/streaming/timeless_dizi_channel/16/vh1w/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",FilmBox Russia
+http://hls.peers.tv/streaming/filmbox//16/vh1w/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Filmbox Arthouse
+http://hls.peers.tv/streaming/filmbox_arthouse/16/vh1w/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",KINO 24
+http://hls.peers.tv/streaming/kino24/126/vh1w/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",KinoLiving
+http://hls.peers.tv/streaming/kinoliving/16/tvrecw/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Silk Way Cinema
+http://hls.peers.tv/streaming/silk_way_cinema/16/copy_a/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Sony Channel
+http://hls.peers.tv/streaming/set/16/tvrecw/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Sony Channel HD
+http://hls.peers.tv/streaming/set_hd/16/copy/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Sony Sci-Fi
+http://hls.peers.tv/streaming/sonyscifi/16/gvh1w/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Star Cinema HD
+http://hls.peers.tv/streaming/star_cinema_hd/16/variable.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",TV XXI
+http://hls.peers.tv/streaming/tv21/16/tvrecw/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",TV1000 Action
+http://hls.peers.tv/streaming/tv1000_action/16/variable.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",TV1000 Русское кино
+http://hls.peers.tv/streaming/tv_1000_rus_kino/16/gvh1w/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",TV1000
+http://hls.peers.tv/streaming/tv1000/16/variable.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",ViP Comedy HD
+http://hls.peers.tv/streaming/tv1000_comedy_hd/16/copy_a/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",ViP Megahit HD
+http://hls.peers.tv/streaming/tv1000_megahit_hd/16/copy/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",ViP Premiere HD
+http://hls.peers.tv/streaming/tv1000_premium_hd/16/copy_a/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",ViP Serial HD
+http://hls.peers.tv/streaming/viasat_golf_hd/16/copy/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",black
+http://hls.peers.tv/streaming/sony_turbo/16/tvrecw/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",А2
+http://hls.peers.tv/streaming/amedia_2/16/vh1w/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Блокбастер
+http://hls.peers.tv/streaming/blokbaster/16/tvrec/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы" channelId="94301091610",Дом Кино
+http://hls.peers.tv/streaming/dom_kino/16/gvh1w/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы" channelId="94301091610",Дом кино Премиум HD
+http://hls.peers.tv/streaming/dom_kino_premium/16/variable.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Дорама
+http://hls.peers.tv/streaming/dorama/16/copy_a/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Еврокино
+http://hls.peers.tv/streaming/eurokino/16/tvrecw/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Иллюзион+
+http://hls.peers.tv/streaming/illyuzion/16/tvrecw/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Индийское кино
+http://hls.peers.tv/streaming/indiatv/16/tvrecw/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Индия
+http://hls.peers.tv/streaming/zee-tv/16/tvrecw/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",КИНЕКО HD
+http://hls.peers.tv/streaming/kineko_hd/16/copy_a/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",КИНОСЕРИЯ
+http://hls.peers.tv/streaming/kinoseriya/16/variable.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Калейдоскоп ТВ
+http://hls.peers.tv/streaming/kaleydoskop/16/tvrecw/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Кино Без Границ
+http://hls.peers.tv/streaming/kino_bez_granits/16/variable.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Кино ТВ HD
+http://hls.peers.tv/streaming/kino_tv_hd/16/copy/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",КиноХит
+http://hls.peers.tv/streaming/kinohit/16/gvh1w/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Кинокомедия HD
+http://hls.peers.tv/streaming/comedytv/16/copy_a/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Киномикс
+http://hls.peers.tv/streaming/ntv_kino_plyus/16/tvrecw/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Кинопоказ
+http://hls.peers.tv/streaming/kinopokaz/16/copy/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Кинопремьера HD
+http://hls.peers.tv/streaming/premera/16/copy_a/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Киносвидание
+http://hls.peers.tv/streaming/kinoklub/16/gvh1w/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Киносемья HD
+http://hls.peers.tv/streaming/hd_kino/16/copy_a/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Киноужас
+http://hls.peers.tv/streaming/kinouzhas/16/vh1w/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Классика Кино
+http://hls.peers.tv/streaming/klassikakino/16/variable.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Любимое кино
+http://hls.peers.tv/streaming/favmovie/16/tvrecw/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Мир сериала
+http://hls.peers.tv/streaming/mir_seriala/126/tvrec/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Мужское Кино HD
+http://hls.peers.tv/streaming/muzhskoe_kino_hd/16/copy_a/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",НТВ сериал
+http://hls.peers.tv/streaming/ntv_serial/16/tvrecw/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Настоящее страшное ТВ
+http://hls.peers.tv/streaming/nstv/16/tvrecw/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Наш кинопоказ
+http://hls.peers.tv/streaming/nash_kinopokaz/16/variable.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Наше новое кино
+http://hls.peers.tv/streaming/nashe_novoe_kino/16/variable.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Русский Бестселлер
+http://hls.peers.tv/streaming/russia_best/16/gvh1w/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Русский Роман
+http://hls.peers.tv/streaming/russian_roman/16/gvh1w/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Русский детектив
+http://hls.peers.tv/streaming/russkiy_detektiv/16/gvh1w/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Русский иллюзион
+http://hls.peers.tv/streaming/russian_illusion/16/tvrecw/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",САПФИР HD
+http://hls.peers.tv/streaming/sapfir_hd/16/copy_a/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Советское кино
+http://hls.peers.tv/streaming/sovetskoekino/16/variable.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Супер (+4)
+http://hls.peers.tv/streaming/super/16/copy/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Фильмы",Хит
+http://hls.peers.tv/streaming/hit/16/tvrec/playlist.m3u8|User-Agent="DuneHD/1.0.3"
