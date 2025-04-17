@@ -1,10 +1,24 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="Russian Rock" tvg-logo="https://topradio.mobi/screen/1630414047_russkii_rok_moskva_rossiya.jpg",Russian Rock
+#EXTINF:-1, Русский Рок
 http://rock.volna.top/RusRock
 
-#EXTINF:-1 tvg-id="Peter FM" tvg-logo="https://www.spdeep.com/favicon.ico",Peter FM Habarovsk
+#EXTINF:-1, Питер FM
 http://a1.radioheart.ru:8001/RH74578
+
+#EXTINF:-1, Radio Record
+http://23.111.104.132/rr_main96.aacp
+
+#EXTINF:-1, Deep House Lounge
+http://198.15.94.34:8006/stream
+
+#EXTINF:-1, Radio Record Chill-Out
+http://23.111.104.132/chil96.aacp
+
+#EXTINF:-1, Radio Record Lo-Fi
+https://radiorecord.hostingradio.ru/lofi96.aacp
+
+#EXTINF:-1, 100 Hit ckassical
+https://ais-sa2.cdnstream1.com/2208_128.mp3
 
 #EXTINF:-1 tvg-id="Monte Carlo" tvg-logo="https://montecarlo.ru/rx/1000x700,c_1,g_CenterCenter/uploads/10/94/adee9ed345c1b9e4078306e37a95.png",Monte Carlo
 https://montecarlo.hostingradio.ru/montecarlo96.aacp
