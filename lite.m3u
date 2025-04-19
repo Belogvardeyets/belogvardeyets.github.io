@@ -38,6 +38,10 @@ http://devyatka.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 tvg-id="domashny" tvg-logo="https://iptvx.one/picons/domashny.png" group-title="Развлекательные",Домашний (HD)
+#EXTINF:-1 group-title="Развлекательные",ТНТ (+4)
+http://hls.peers.tv/streaming/tnt/16/g2500/playlist.m3u8|User-Agent="DuneHD/1.0.3"
+#EXTINF:-1 group-title="Развлекательные",ТНТ HD
+http://hls.peers.tv/streaming/tnt_hd/16/copy_a/playlist.m3u8|User-Agent="DuneHD/1.0.3"
 
 #EXTINF:-1 tvg-id="domashny-int" tvg-logo="https://iptvx.one/picons/domashny-int.png" group-title="Развлекательные",Домашний Int (EDTV)
 http://178.124.152.238:8088/dom
