@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz"
+#EXTM3U
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.ibb.co/gZPkmdT/d584e282d48b38a149ee31ccbd4de7ec.jpg" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_89F_16_70_1680000_0_0_0.png" channelId="3630" tvg-id="tnt",ТНТ HD
 http://srv-1-streaming.iptvin.online:8080/tnt_hd/video.m3u8?token=275fc761b23e3fdd37aa78fcc831d287bac89fd6-4793032998-1745862314-1745819114
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.ibb.co/NpXWKNz/2c5c5e644cdbd6b765ce892d8bb776c3.jpg" logo="https://i115.fastpic.org/big/2021/0914/3b/f7ba8bd4ecb79418188475ed51ccf83b.png" channelId="77" tvg-id="tnt4",ТНТ4 HD
