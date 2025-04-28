@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="Россия" tvg-logo="https://i.ibb.co/gZPkmdT/d584e282d48b38a149ee31ccbd4de7ec.jpg" logo="http://overlay.iptvin.online/epg/PIC/1_0_19_89F_16_70_1680000_0_0_0.png" channelId="3630" tvg-id="tnt",ТНТ HD
+#EXTINF:-1,ТНТ HD
 http://srv-1-streaming.iptvin.online:8080/tnt_hd/video.m3u8?token=275fc761b23e3fdd37aa78fcc831d287bac89fd6-4793032998-1745862314-1745819114
-#EXTINF:-1 group-title="Россия" tvg-logo="https://i.ibb.co/NpXWKNz/2c5c5e644cdbd6b765ce892d8bb776c3.jpg" logo="https://i115.fastpic.org/big/2021/0914/3b/f7ba8bd4ecb79418188475ed51ccf83b.png" channelId="77" tvg-id="tnt4",ТНТ4 HD
+#EXTINF:-1,ТНТ4 HD
 http://srv-1-streaming.iptvin.online:8080/tnt4_hd/video.m3u8?token=c3342c7bc485be1f91d4a857d288224203bc7eb8-4793032998-1745862314-1745819114
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tnt",ТНТ (Архив)
+#EXTINF:-1 ",ТНТ (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tnt-pl7",ТНТ +7 (Архив)
+#EXTINF:-1,ТНТ +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
 #EXTINF:-1,ТНТ
@@ -16,10 +16,7 @@ https://streaming.goodstream.cyou/live/38.m3u8
 http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=tnt_hd
 #EXTINF:-1,ТНТ International (Европа)
 http://85.187.13.40:18000/tntint
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tnt4",ТНТ4 (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tnt4-pl7",ТНТ4 +7 (Архив)
+#EXTINF:-1,ТНТ4 +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
 #EXTINF:-1,ТНТ4
@@ -52,7 +49,3 @@ http://135.181.115.81:8000/play/a03v/index.m3u8?token=livetv
 http://188.237.47.212:6005
 #EXTINF:-1,National Geographic
 http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8c382rxX/82a354c357cde76a13e246bd2c031834.jpg" logo="https://i.ibb.co/w42R40b/HD-1024x555-tr.png" channelId="125" tvg-name="Первый канал" tvg-id="pervy",Первый канал HD
-http://srv-1-streaming.iptvin.online:8080/ort_hd/video.m3u8?token=a16d6ba28b9a2d35d26cb98033c49c9c1d91b99f-4793032998-1745862314-1745819114
