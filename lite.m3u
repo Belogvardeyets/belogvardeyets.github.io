@@ -1,7 +1,11 @@
-#EXTM3U
+#EXTM3U url-tvg="http://epg.one/epg.xml"
 
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png",ТНТ International (Европа)
 http://85.187.13.40:18000/tntint
+#EXTINF:-1 tvg-id="tnt-pl2" tvg-logo="https://iptvx.one/picons/tnt.png",ТНТ +2
+https://streaming.televizor-24-tochka.ru/live/38.m3u8
+#EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png",ТНТ HD
+https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png",ТНТ
 http://176.51.101.18:1234/udp/225.54.205.147:5000
@@ -16,4 +20,5 @@ http://176.113.91.224:81/udp/239.195.1.101:1234
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png",Первый канал (+4)
 http://176.51.101.18:1234/udp/225.54.205.149:5000
 
-
+#EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://iptvx.one/picons/national-geographic.png",National Geographic
+http://srv-3-streaming.iptvin.online:8080/national_geographic_hd/index.m3u8?token=c5c5da92ab6ef0a592a973aa1d3803904af18c65-4793032998-1750784400-1750741200
