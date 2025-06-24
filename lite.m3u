@@ -12,7 +12,7 @@ http://176.51.101.18:1234/udp/225.54.205.147:5000
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png",ТНТ
 http://176.51.101.18:1234/udp/225.54.205.167:5000
 
-#EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" Первый канал +4
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png",Первый канал (+4)
 http://hls.peers.tv/streaming/1kanal/16/tvrecw/playlist.m3u8|User-Agent="DuneHD/1.0.3"
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png",Первый канал (+4)
