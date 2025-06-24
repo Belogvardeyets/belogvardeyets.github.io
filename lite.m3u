@@ -21,9 +21,6 @@ http://176.113.91.224:81/udp/239.195.1.101:1234
 http://176.51.101.18:1234/udp/225.54.205.149:5000
 
 #EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://iptvx.one/picons/national-geographic.png",National Geographic
-http://srv-3-streaming.iptvin.online:8080/national_geographic_hd/index.m3u8?token=c5c5da92ab6ef0a592a973aa1d3803904af18c65-4793032998-1750784400-1750741200
-
-#EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://iptvx.one/picons/national-geographic.png",National Geographic
 http://195.245.99.242/National_Geographic/playlist.m3u8
 
 #EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://iptvx.one/picons/national-geographic.png",National Geographic HD
