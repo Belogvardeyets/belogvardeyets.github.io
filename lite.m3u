@@ -22,3 +22,18 @@ http://176.51.101.18:1234/udp/225.54.205.149:5000
 
 #EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://iptvx.one/picons/national-geographic.png",National Geographic
 http://srv-3-streaming.iptvin.online:8080/national_geographic_hd/index.m3u8?token=c5c5da92ab6ef0a592a973aa1d3803904af18c65-4793032998-1750784400-1750741200
+
+#EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://iptvx.one/picons/national-geographic.png",National Geographic
+http://195.245.99.242/National_Geographic/playlist.m3u8
+
+#EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://iptvx.one/picons/national-geographic.png",National Geographic HD
+http://178.217.72.66:8080/National_Geographic/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://iptvx.one/picons/discovery-channel.png",Discovery HD
+http://178.217.72.66:8080/Discovery_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://iptvx.one/picons/discovery-channel.png",Discovery Channel HD
+http://195.245.99.242/Discovery/playlist.m3u8
+
+#EXTINF:-1 tvg-id="id-xtra-eu" tvg-logo="https://iptvx.one/picons/idxtra.png",ID Xtra EU
+http://195.245.99.242/ID/playlist.m3u8
