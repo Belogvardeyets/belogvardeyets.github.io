@@ -165,8 +165,6 @@ http://srv-2-streaming.iptvin.online:8080/my_planet_hd/index.m3u8?token=a7cb87de
 http://srv-1-streaming.iptvin.online:8080/OnePlanetHD/index.m3u8?token=4c698645ee90cf786786af537a58893a69fdd4b1-4793032998-1750868518-1750825318
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://i.ibb.co/NZGmsss/Big-Planet-HD-220x220.png" logo="https://i.ibb.co/xXbH7ny/Big-Planet-HD-220x132-tr.png" channelId="5216" tvg-id="big-planet",Big Planet HD
 http://srv-1-streaming.iptvin.online:8080/BigPlanet/index.m3u8?token=990bbdcd864d1149466bb6f4b7c4f5d8441a687b-4793032998-1750868518-1750825318
-#EXTINF:-1 group-title="Украина" tvg-logo="https://i.postimg.cc/d3RHBZwT/41298209acdfb5c5315ec70fbf6c92e6.png" logo="https://static.sweet.tv/images/icons/channels/502.png" channelId="4518" tvg-name="Star Cinema Украина" tvg-id="star-cinema-ua" tvg-country="UA",Star Cinema Украина HD
-http://srv-6-streaming.iptvin.online:8080/star_cinema/video.m3u8?token=62379d52407e47ce05d03113902111444dd163a6-4793032998-1750868518-1750825318
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.postimg.cc/8c382rxX/82a354c357cde76a13e246bd2c031834.jpg" logo="https://i.ibb.co/w42R40b/HD-1024x555-tr.png" channelId="125" tvg-name="Первый канал" tvg-id="pervy",Первый канал HD
 http://srv-1-streaming.iptvin.online:8080/ort_hd/video.m3u8?token=5b84819ac108aed87cf95a3d4669e3f8eb4d113d-4793032998-1750868518-1750825318
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.postimg.cc/qq8C9kCn/38d8daf28834c7f0b0367e0243013806.png" logo="https://i.ibb.co/rF5mJ1G/Rossiya-1-HD-160x120-tr.png" channelId="203" tvg-id="rossia1",Россия 1 HD
@@ -175,7 +173,3 @@ http://srv-1-streaming.iptvin.online:8080/russia_hd/video.m3u8?token=b084ef38209
 http://srv-1-streaming.iptvin.online:8080/tnt_hd/video.m3u8?token=a09527b2cf9a821687043f158c87a46f5357bb89-4793032998-1750868518-1750825318
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.ibb.co/NpXWKNz/2c5c5e644cdbd6b765ce892d8bb776c3.jpg" logo="https://i115.fastpic.org/big/2021/0914/3b/f7ba8bd4ecb79418188475ed51ccf83b.png" channelId="77" tvg-id="tnt4",ТНТ4 HD
 http://srv-1-streaming.iptvin.online:8080/tnt4_hd/video.m3u8?token=6c57bdea8c38b6b093a91384bb2b34dbb3684beb-4793032998-1750868518-1750825318
-#EXTINF:-1 group-title="Прибалтика",ТНТ Baltic
-http://srv-5-streaming.iptvin.online:8080/TNTBALTIC/index.m3u8?token=ea3ca27239ab12b49047902eddd1c5b1e92ca1f4-4793032998-1750868518-1750825318
-#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://federal.tv/i/bridgetvrushit.png" logo="http://overlay.iptvin.online/epg/PIC/Bridge%20TV%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D1%85%D0%B8%D1%82.png" channelId="484" tvg-id="bridge-tv-ruxit",BRIDGE Русский Хит
-http://srv-6-streaming.iptvin.online:8080/bridgerushit/video.m3u8?token=1fdd9befe6dd0d6e554b731c2d671eda6fbb36bc-4793032998-1750868518-1750825318
