@@ -4,13 +4,8 @@
 http://85.187.13.40:18000/tntint
 #EXTINF:-1 tvg-id="tnt-pl2" tvg-logo="https://iptvx.one/picons/tnt.png",ТНТ +2
 https://streaming.televizor-24-tochka.ru/live/38.m3u8
-#EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png",ТНТ HD
-https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
-
-#EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png",ТНТ
-http://176.51.101.18:1234/udp/225.54.205.147:5000
-#EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png",ТНТ
-http://176.51.101.18:1234/udp/225.54.205.167:5000
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png",Россия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png",Первый канал (+4)
 http://77.235.1.19:8000/play/a073/index.m3u8
