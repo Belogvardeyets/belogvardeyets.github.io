@@ -1,9 +1,5 @@
 #EXTM3U url-tvg="http://epg.one/epg.xml"
 
-#EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png",ТНТ International (Европа)
-http://85.187.13.40:18000/tntint
-#EXTINF:-1 tvg-id="tnt-pl2" tvg-logo="https://iptvx.one/picons/tnt.png",ТНТ +2
-https://streaming.televizor-24-tochka.ru/live/38.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 
@@ -18,9 +14,6 @@ http://178.217.72.66:8080/National_Geographic/index.m3u8
 
 #EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://iptvx.one/picons/discovery-channel.png",Discovery HD
 http://178.217.72.66:8080/Discovery_HD/video.m3u8
-
-#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://iptvx.one/picons/discovery-channel.png",Discovery Channel HD
-http://195.245.99.242/Discovery/playlist.m3u8
 
 #EXTINF:-1 tvg-id="id-xtra-eu" tvg-logo="https://iptvx.one/picons/idxtra.png",ID Xtra EU
 http://195.245.99.242/ID/playlist.m3u8
