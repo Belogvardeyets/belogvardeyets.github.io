@@ -21,5 +21,8 @@ http://195.245.99.242/ID/playlist.m3u8
 #EXTINF:-1 tvg-id="tnt-pl2" tvg-logo="https://iptvx.one/picons/tnt.png",ТНТ +2
 https://streaming.televizor-24-tochka.ru/live/38.m3u8
 
-#EXTINF:-1 tvg-id="tnt-pl2" tvg-logo="https://iptvx.one/picons/tnt.png",ТНТ
+#EXTINF:-1 tvg-id="tnt-pl2" tvg-logo="https://iptvx.one/picons/tnt.png",ТНТ (360р)
 https://streaming.goodstream.cyou/live/38.m3u8
+
+#EXTINF:-1 tvg-id="tnt-pl2" tvg-logo="https://iptvx.one/picons/tnt.png",ТНТ HD
+http://178.217.72.66:8080/TNT_HD/index.m3u8
