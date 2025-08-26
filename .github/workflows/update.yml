@@ -2,8 +2,8 @@ name: Update IPTV Playlist
 
 on:
   schedule:
-    - cron: "0 6 * * *"   # запуск каждый день в 06:00 UTC (09:00 по Алматы, 07:00 по Москве)
-  workflow_dispatch:       # возможность запускать вручную
+    - cron: "0 6 * * *"   # запуск каждый день в 06:00 UTC
+  workflow_dispatch:
 
 jobs:
   build:
@@ -30,4 +30,5 @@ jobs:
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add test.m3u
           git commit -m "Auto update test.m3u" || echo "No changes"
-          git push
+          git pull --rebase origin main
+          git push origin HEAD:main
