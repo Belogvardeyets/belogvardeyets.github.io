@@ -1,3 +1,21 @@
 #EXTM3U
-#EXTINF:-1,ТНТ +2
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_TNT_2/variant.m3u8
+#EXTINF:-1 group-title="Развлечение", ТНТ
+https://streaming.goodstream.cyou/live/38.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлечение" tvg-id="tnt", ТНТ (Архив)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлечение" tvg-id="tnt-pl7", ТНТ +7 (Архив)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
+#EXTINF:-1 group-title="Развлечение", ТНТ HD
+http://178.217.72.66:8080/TNT_HD/index.m3u8
+#EXTINF:-1 group-title="Развлечение", ТНТ Int.
+http://178.134.1.158:8081/tnt/index.m3u8
+#EXTINF:-1 group-title="Развлечение", ТНТ4
+http://178.217.72.66:8080/TNT4/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлечение" tvg-id="tnt4", ТНТ4 (Архив)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлечение" tvg-id="tnt4-pl7", ТНТ4 +7 (Архив)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
+#EXTINF:-1 group-title="Музыка", ТНТ Music
+http://85.117.61.97:8000/play/a021/index.m3u8
+#EXTINF:-1 group-title="Музыка", ТНТ Music HD
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
