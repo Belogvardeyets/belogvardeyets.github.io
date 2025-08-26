@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/epg.xml"
+#EXTM3U
 
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
