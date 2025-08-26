@@ -8,7 +8,7 @@ SOURCE_URL = "https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/
 TARGET_FILE = "test.m3u"
 
 # какие каналы ищем
-CHANNEL_TAGS = ["ТНТ +2"]
+CHANNEL_TAGS = ["ТНТ"]
 
 def download_source():
     resp = requests.get(SOURCE_URL)
