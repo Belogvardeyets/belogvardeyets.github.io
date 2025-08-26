@@ -18,5 +18,14 @@ http://178.217.72.66:8080/Discovery_HD/video.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" tvg-logo="https://iptvx.one/picons/idxtra.png",ID Xtra EU
 http://195.245.99.242/ID/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="../Channel/logo/ТНТ HD.png",ТНТ +4
+#EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png",ТНТ (+4) 1
 http://178.163.16.150:4022/udp/234.0.0.9:2000
+
+#EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png",ТНТ (+4) 2
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_TNT_4/variant.m3u8
+
+#EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png",ТНТ (+4) 3
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdhigh.m3u8
+
+#EXTINF:-1 tvg-id="tnt-pl2" tvg-logo="https://iptvx.one/picons/tnt.png",ТНТ +2
+https://streaming.televizor-24-tochka.ru/live/38.m3u8
