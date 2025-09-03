@@ -9,6 +9,9 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png",Первый канал (+4)
 http://77.235.1.19:8000/play/a073/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/pervy.png", Первый канал HD +4
+http://77.235.1.19:8000/play/a073/index.m3u8
+
 #EXTINF:-1 tvg-id="national-geographic" tvg-logo="https://iptvx.one/picons/national-geographic.png",National Geographic HD
 http://178.217.72.66:8080/National_Geographic/index.m3u8
 
