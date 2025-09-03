@@ -1,7 +1,7 @@
-#url-tvg="http://epg.one/epg2.xml"
+#EXTM3U url-tvg="http://epg.one/epg2.xml"
 
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png",Россия 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+http://sc.id-tv.kz/1KanalEvraziya.m3u8
 
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
