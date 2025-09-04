@@ -1,22 +1,29 @@
 import requests
-import re
 import os
 
-# raw-ссылка на исходный плейлист
-SOURCE_URL = "https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/LoganetXAll.m3u"
-# локальный файл (в твоём репо он называется test.m3u)
+# список raw-ссылок на исходные плейлисты
+SOURCE_URLS = [
+    "https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/LoganetXAll.m3u",
+    # можно добавить ещё ссылки сюда
+    "https://smolnp.github.io/IPTVru//IPTVru.m3u",
+    "https://iptv-org.github.io/iptv/index.m3u",
+    # "https://example.com/playlist3.m3u",
+]
+
+# локальный файл (куда сохраняем результат)
 TARGET_FILE = "test.m3u"
 
-# какие каналы ищем
-CHANNEL_TAGS = ["ТНТ первый канал"]
+# какие каналы ищем (через запятую)
+CHANNEL_TAGS = ["ТНТ", "первый канал"]
 
-def download_source():
-    resp = requests.get(SOURCE_URL)
+def download_source(url):
+    """Скачиваем плейлист по ссылке"""
+    resp = requests.get(url)
     resp.raise_for_status()
     return resp.text
 
 def parse_channels(m3u_text):
-    """Парсим все каналы из исходного .m3u"""
+    """Парсим все каналы из .m3u"""
     lines = m3u_text.splitlines()
     channels = []
     current_info = None
@@ -36,6 +43,7 @@ def filter_channels(channels, tags):
         for tag in tags:
             if tag.lower() in info.lower():
                 result.append((info, url))
+                break  # чтобы один канал не дублировался, если подходит под несколько тегов
     return result
 
 def save_playlist(channels, target_file):
@@ -47,14 +55,25 @@ def save_playlist(channels, target_file):
             f.write(url + "\n")
 
 def main():
-    text = download_source()
-    all_channels = parse_channels(text)
+    all_channels = []
+
+    # собираем все каналы со всех плейлистов
+    for url in SOURCE_URLS:
+        try:
+            text = download_source(url)
+            all_channels.extend(parse_channels(text))
+            print(f"📥 Загружено из {url}")
+        except Exception as e:
+            print(f"⚠️ Ошибка загрузки {url}: {e}")
+
+    # фильтруем только нужные
     wanted = filter_channels(all_channels, CHANNEL_TAGS)
 
     if not wanted:
         print("❌ Каналы не найдены")
         return
 
+    # сохраняем в файл
     save_playlist(wanted, TARGET_FILE)
     print(f"✅ Обновлено {len(wanted)} канал(ов) в {TARGET_FILE}")
 
