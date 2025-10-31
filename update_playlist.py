@@ -14,7 +14,7 @@ SOURCE_URLS = [
 TARGET_FILE = "test.m3u"
 
 # какие каналы ищем (через запятую)
-CHANNEL_TAGS = ["ТНТ", "первый канал +4"]
+CHANNEL_TAGS = ["ТНТ", "первый канал +4", "National Geographic"]
 
 def download_source(url):
     """Скачиваем плейлист по ссылке"""
