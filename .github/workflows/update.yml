@@ -25,8 +25,7 @@ jobs:
 
           SOURCE_URLS = [
               "https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/LoganetXAll.m3u",
-              "https://smolnp.github.io/IPTVru//IPTVru.m3u",
-              "https://iptv-org.github.io/iptv/index.m3u",
+              "https://loganettv.vercel.app/strawberry.m3u",
           ]
 
           TARGET_FILE = "test.m3u"
