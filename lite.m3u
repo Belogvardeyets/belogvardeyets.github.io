@@ -1,5 +1,9 @@
 #EXTM3U url-tvg="http://epg.one/epg.xml"
 
+#EXTINF:-1,Первый канал +4
+http://176.51.105.141:1234/udp/225.54.205.149:5000
+#EXTINF:-1,Первый канал +4
+http://62.76.16.88:81/udp/239.195.1.101:1234
 #EXTINF:-1,Рен ТВ
 https://ucdn.beetv.kz/bpk-tv/000002472/tve/index.m3u8
 #EXTINF:-1,ТНТ4
