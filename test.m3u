@@ -1,1 +1,49 @@
 #EXTM3U
+#EXTINF:-1 group-title="Общие", Первый канал
+http://194.8.128.38:8080/ort/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="pervy", Первый канал (Архив)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="pervy-pl9", Первый канал +9 (Архив)
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
+#EXTINF:-1 group-title="Общие", Первый канал HD
+http://77.235.1.19:8000/play/a07r/index.m3u8
+#EXTINF:-1 group-title="Общие", Первый канал HD +4
+http://77.235.1.19:8000/play/a073/index.m3u8
+#EXTINF:-1 group-title="Общие", Первый канал Евразия
+http://sc.id-tv.kz/1KanalEvraziya.m3u8
+#EXTINF:-l group-title="Общие", Первый канал Европа
+https://streaming.thestream.cyou/live/210.m3u8
+#EXTINF:-1 group-title="Развлечение", ТНТ
+https://streaming.goodstream.cyou/live/38.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлечение" tvg-id="tnt", ТНТ (Архив)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлечение" tvg-id="tnt-pl7", ТНТ +7 (Архив)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
+#EXTINF:-1 group-title="Развлечение", ТНТ HD
+http://178.217.72.66:8080/TNT_HD/index.m3u8
+#EXTINF:-1 group-title="Развлечение", ТНТ Int.
+http://178.134.1.158:8081/tnt/index.m3u8
+#EXTINF:-1 group-title="Развлечение", ТНТ4
+http://178.217.72.66:8080/TNT4/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлечение" tvg-id="tnt4", ТНТ4 (Архив)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлечение" tvg-id="tnt4-pl7", ТНТ4 +7 (Архив)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
+#EXTINF:-1 group-title="Знания", National Geographic
+http://158.160.149.81:8080/43/index.m3u8
+#EXTINF:-1 group-title="Знания", National Geographic HD
+http://178.217.72.66:8080/National_Geographic/index.m3u8
+#EXTINF:-1 group-title="Знания", National Geographic Wild
+http://45.159.74.22/NatGeoWild/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Знания", National Geographic Wild HD
+http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 group-title="Знания", viju Nature
+http://158.101.222.193:88/georgia_play.php?id=viasatnat
+#EXTINF:-1 group-title="Знания", viju History
+http://158.101.222.193:88/georgia_play.php?id=viasathist
+#EXTINF:-1 group-title="Знания", viju Explore
+http://158.101.222.193:88/georgia_play.php?id=viasatexp
+#EXTINF:-1 group-title="Музыка", ТНТ Music
+http://85.117.61.97:8000/play/a021/index.m3u8
+#EXTINF:-1 group-title="Музыка", ТНТ Music HD
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
