@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U url-tvg="http://epg.one/epg.xml"
+
 #EXTINF:-1 group-title="Общие", Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="pervy", Первый канал (Архив)
