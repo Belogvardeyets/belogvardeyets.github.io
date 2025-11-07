@@ -35,9 +35,23 @@ http://158.101.222.193:88/georgia_play.php?id=viasatexp
 http://85.117.61.97:8000/play/a021/index.m3u8
 #EXTINF:-1 group-title="Музыка", ТНТ Music HD
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
-#EXTINF:-1,iptvin.ru/p  #FALLBACK-RAW
-http://iptvin.ru/p/?nsk.Belogvardeyets.Ghl09179179.m3u
-#EXTINF:-1,iptv.org.ua/iptv/kzbtv.m3u  #FALLBACK-RAW
-https://iptv.org.ua/iptv/kzbtv.m3u
-#EXTINF:-1,github.com/Monoloshka/iptv/blob/main/full-iptv.m3u  #FALLBACK-RAW
-https://github.com/Monoloshka/iptv/blob/main/full-iptv.m3u
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/tnt-music.png" tvg-id="tnt-music", ТНТ Music
+https://ucdn.beetv.kz/bpk-tv/000000013/tve/index.m3u8
+#EXTINF:0 type="stream" channelId="56" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/national-geographic.png" tvg-id="national-geographic", National Geographic
+https://ucdn.beetv.kz/bpk-tv/000000034/tve/index.m3u8
+#EXTINF:0 type="stream" channelId="2518" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/pervy-kanal-eurasia-kz.png" tvg-id="pervy-kanal-eurasia-kz" tvg-country="KZ", Первый канал Евразия
+https://ucdn.beetv.kz/bpk-tv/000000669/tve/index.m3u8
+#EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="https://ucdn.beetv.kz/bpk-tv/000001227/tve/index.m3u8?begin=${start}&end=${timestamp}" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/pervy.png" tvg-id="pervy" tvg-country="RU", Первый канал
+https://ucdn.beetv.kz/bpk-tv/000001227/tve/index.m3u8
+#EXTINF:0 type="stream" channelId="57" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/discovery-channel.png" tvg-id="discovery-channel", Discovery Channel
+https://ucdn.beetv.kz/bpk-tv/000001496/tve/index.m3u8
+#EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="https://ucdn.beetv.kz/bpk-tv/000002926/tve/index.m3u8?begin=${start}&end=${timestamp}" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/tnt4-international.png" tvg-id="tnt4-international", ТНТ4
+https://ucdn.beetv.kz/bpk-tv/000002926/tve/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/viasat-explore.png" tvg-id="viasat-explore", Viju explore
+https://ucdn.beetv.kz/bpk-tv/000004157/tve/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/viasat-history.png" tvg-id="viasat-history", Viju History
+https://ucdn.beetv.kz/bpk-tv/000005528/tve/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/viasat-nature.png" tvg-id="viasat-nature", Viju nature
+https://ucdn.beetv.kz/bpk-tv/000006482/tve/index.m3u8
+#EXTINF:0 type="stream"  tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/tnt-kz.png" tvg-id="tnt-kz", ТНТ
+https://ucdn.beetv.kz/bpk-tv/000007833/tve/index.m3u8
