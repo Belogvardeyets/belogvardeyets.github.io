@@ -89,5 +89,45 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
 #EXTINF:-1 tvg-id="tnt-music" tvg-logo="https://iptvx.one/picons/tnt-music.png" group-title="Музыкальные",ТНТ Music HD
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Общие", Первый канал HD +4
-http://77.235.1.19:8000/play/a073/index.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-id="rossia1" tvg-logo="http://i122.fastpic.org/big/2023/0705/de/ab393bef44b80dc1d57351855763b4de.png", РОССИЯ 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-logo="https://federal.tv/i/tnt.png", ТНТ HD
+http://live-stream-20.ott.tricolor.tv/live/live/tnt_hd/hls_enc/tnt_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2Mjg3NjA2OSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzYyMjcxMjY5LCJzZXNzaW9uX2lkIjoiOGNmNjViYTU0MmY2ODAxOTBlNDY0NjU0NzFjZTZiNGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.zodY-xXsZJPaGdr2JTg_gFsph3V__itABpp2r12wRfk
+#EXTINF:-1 group-title="Эфирные",	ТНТ-International (СНГ)
+http://178.134.1.158:8081/tnt/index.m3u8
+#EXTINF:-1 group-title="Эфирные",ТНТ-International (Европа)
+https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
+#EXTINF:-1 group-title="Музыкальные", ТНТ Music
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="Музыкальные", ТНТ Music HD
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-id="tnt4" tvg-logo="http://www.oreol.tv/img/tht4.jpg", ТНТ4 HD
+http://stream-msk-08.ott.tricolor.tv/dtv/id282_MSKSG-PVR-1--TNT4/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzNjAyNTUwNDI2MjA5MSIsImV4cCI6MTc2Mjg3NjA2OSwiaHdpZCI6IjVlODA1NGRlZmQxNGRjZWVhNzA0MmZmMzFhMGRiMzg2YWRmZDMwZWY0MDRmZWEwM2I0YWIyZjU2OWM2YWY3OWMiLCJsYXN0X3JlcV9kYXRlIjoxNzYyMjcxMjY5LCJzZXNzaW9uX2lkIjoiOGNmNjViYTU0MmY2ODAxOTBlNDY0NjU0NzFjZTZiNGQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.zodY-xXsZJPaGdr2JTg_gFsph3V__itABpp2r12wRfk
+#EXTINF:-1 group-title="Развлекательные", ТНТ4 International
+https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
+#EXTINF:-1 group-title="Познавательные", Viju History
+http://188.190.222.53/Viasat_History/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="VIJU HISTORY", VIJU HISTORY HD
+http://195.191.208.5:8087/udp/233.170.170.16:58631
+#EXTINF:-1 tvg-id="viasat-nature" group-title="Познавательные", Viju Nature
+http://195.191.208.5:8087/udp/233.170.170.92:58631
+#EXTINF:-1 group-title="Познавательные", Viju Nature
+http://158.101.222.193:88/georgia_play.php?id=viasatnat
+#EXTINF:-1 group-title="Познавательные", Viju Explore
+http://91.194.191.241:8081/chid106/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="VIJU EXPLORE", VIJU EXPLORE HD
+http://195.191.208.5:8087/udp/233.170.170.15:58631
+#EXTINF:-1 group-title="Познавательные" tvg-id="discovery-channel", Discovery Channel
+http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="discovery-channel", Discovery Channel
+http://91.207.115.228:5000/c146
+#EXTINF:-1 group-title="Познавательные",National Geographic
+http://178.217.72.72/National_Geographic/index.m3u8
+#EXTINF:-1 group-title="Познавательные",National Geographic HD
+http://178.217.72.72/National_Geographic_HD/index.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://i.ibb.co/VSyN9rN/image-58.png" tvg-id="no_epg_news", Россия 1 (Донецк)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO4y0CelYt0/russia1-sd/index.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://i.ibb.co/VSyN9rN/image-58.png" tvg-id="no_epg_news", Россия 1 (Луганск)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO3gcQAHbok/russia1-sd/index.m3u8
+#EXTINF:-1 group-title="Архивные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 (+5)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
