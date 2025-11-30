@@ -1,42 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Общие" tvg-id="pervy", Первый канал
-http://194.8.128.38:8080/ort/playlist.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="pervy", Первый канал HD
-http://95.66.188.74/PerviyHD/mono.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="pervy-kanal-eu", Первый канал Европа
-https://streaming.thestream.cyou/live/210.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rossia1", Россия 1
-http://194.32.242.245/rossiya1/index.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rossia1", Россия 1 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
-#EXTINF:-1 group-title="Развлечение", ТНТ
-http://185.46.16.239:8000/TNT
-#EXTINF:-1 group-title="Развлечение", ТНТ HD
-http://95.66.188.74/TNT_HD/mono.m3u8
-#EXTINF:-1 group-title="Развлечение", ТНТ4
-http://188.190.222.53/TNT4/index.m3u8
-#EXTINF:-1 group-title="Знания", National Geographic
-http://46.8.46.14/National_Geographic/index.m3u8
-#EXTINF:-1 group-title="Знания", National Geographic Wild
-http://195.64.140.147:10149/149
-#EXTINF:-1 group-title="Знания" audio-track="rus", National Geographic Wild HD
-http://185.236.230.212:9982/play/a07y
-#EXTINF:-1 group-title="Знания", Viasat History
-http://94.232.127.28:8080/viasathistory/index.m3u8
-#EXTINF:-1 group-title="Знания", viju Nature
-http://158.101.222.193:88/georgia_play.php?id=viasatnat
-#EXTINF:-1 group-title="Знания", viju History
-http://158.101.222.193:88/georgia_play.php?id=viasathist
-#EXTINF:-1 group-title="Знания", viju History HD
-http://iptv46.mcx-ix.ru:8077/ViasatHistoryHD/index.m3u8
-#EXTINF:-1 group-title="Знания", viju Explore
-http://158.101.222.193:88/georgia_play.php?id=viasatexp
-#EXTINF:-1 group-title="Новости", Россия 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Музыка", ТНТ Music
-http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="Музыка", ТНТ Music HD
-http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Общественные",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="Информационные",Россия 24
@@ -95,3 +57,5 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO3gcQAHbok/russia1-sd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
 #EXTINF:-1,raw.githubusercontent.com/iptv-org/iptv/master/languages/kaz.m3u  #FALLBACK-RAW
 https://raw.githubusercontent.com/iptv-org/iptv/master/languages/kaz.m3u
+#EXTINF:-1,api.allorigins.win/raw  #FALLBACK-RAW
+https://api.allorigins.win/raw?url=https%3A%2F%2Floganettv.vercel.app%2Fall.m3u
