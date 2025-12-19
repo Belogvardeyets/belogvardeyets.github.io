@@ -1,5 +1,5 @@
 #EXTM3U
-EXTINF:-1 Россия 1 (+5)
+EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" Россия 1 HD (+5)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
 
 
