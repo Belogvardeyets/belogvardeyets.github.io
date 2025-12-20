@@ -17,33 +17,7 @@ http://188.190.222.53/TNT4/index.m3u8
 http://46.8.46.14/National_Geographic/index.m3u8
 #EXTINF:-1 group-title="Знания", National Geographic Wild
 http://195.64.140.147:10149/149
-#EXTINF:-1 group-title="Музыкальные",ТНТ Music
-http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tnt_music&user=Belogvardeyets&token=8c2bdbda775ac6475cb09e851bff3fd060fa1f12850b3ac64b0a3cfda8cfeb90&te=1766236799
-#EXTINF:-1 group-title="Познавательные",Discovery Channel
-http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=discovery_channel&user=Belogvardeyets&token=8c2bdbda775ac6475cb09e851bff3fd060fa1f12850b3ac64b0a3cfda8cfeb90&te=1766236799
-#EXTINF:-1 group-title="Познавательные",National Geographic
-http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=national_geographic&user=Belogvardeyets&token=8c2bdbda775ac6475cb09e851bff3fd060fa1f12850b3ac64b0a3cfda8cfeb90&te=1766236799
-#EXTINF:-1 group-title="Познавательные",viju History
-http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=viasat_history&user=Belogvardeyets&token=8c2bdbda775ac6475cb09e851bff3fd060fa1f12850b3ac64b0a3cfda8cfeb90&te=1766236799
-#EXTINF:-1 group-title="Познавательные",viju Nature
-http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=viasat_nature&user=Belogvardeyets&token=8c2bdbda775ac6475cb09e851bff3fd060fa1f12850b3ac64b0a3cfda8cfeb90&te=1766236799
-#EXTINF:-1 group-title="Развлекательные",ТНТ4
-http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tnt4&user=Belogvardeyets&token=8c2bdbda775ac6475cb09e851bff3fd060fa1f12850b3ac64b0a3cfda8cfeb90&te=1766236799
-#EXTINF:-1 group-title="Россия +2",ТНТ (+2)
-http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tnt_2&user=Belogvardeyets&token=8c2bdbda775ac6475cb09e851bff3fd060fa1f12850b3ac64b0a3cfda8cfeb90&te=1766236799
-#EXTINF:-1 group-title="Россия +2",ТНТ4 (+2)
-http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tnt4_2&user=Belogvardeyets&token=8c2bdbda775ac6475cb09e851bff3fd060fa1f12850b3ac64b0a3cfda8cfeb90&te=1766236799
-#EXTINF:-1 group-title="Россия +4",ТНТ (+4)
-http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tnt_4&user=Belogvardeyets&token=8c2bdbda775ac6475cb09e851bff3fd060fa1f12850b3ac64b0a3cfda8cfeb90&te=1766236799
-#EXTINF:-1 group-title="Россия +4",ТНТ4 (+4)
-http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tnt4_4&user=Belogvardeyets&token=8c2bdbda775ac6475cb09e851bff3fd060fa1f12850b3ac64b0a3cfda8cfeb90&te=1766236799
-#EXTINF:-1 group-title="Россия +7",ТНТ (+7)
-http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tnt_7&user=Belogvardeyets&token=8c2bdbda775ac6475cb09e851bff3fd060fa1f12850b3ac64b0a3cfda8cfeb90&te=1766236799
-#EXTINF:-1 group-title="Россия +7",ТНТ4 (+7)
-http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tnt4_7&user=Belogvardeyets&token=8c2bdbda775ac6475cb09e851bff3fd060fa1f12850b3ac64b0a3cfda8cfeb90&te=1766236799
-#EXTINF:-1 group-title="Федеральные",Россия 24 Int
-http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=russia_24_int&user=Belogvardeyets&token=8c2bdbda775ac6475cb09e851bff3fd060fa1f12850b3ac64b0a3cfda8cfeb90&te=1766236799
-#EXTINF:-1 group-title="Федеральные",Россия 24
-http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=russia_24&user=Belogvardeyets&token=8c2bdbda775ac6475cb09e851bff3fd060fa1f12850b3ac64b0a3cfda8cfeb90&te=1766236799
-#EXTINF:-1 group-title="Федеральные",ТНТ
-http://srv-2-streaming.iptvin.online/iptv/index.m3u?ch=tnt&user=Belogvardeyets&token=8c2bdbda775ac6475cb09e851bff3fd060fa1f12850b3ac64b0a3cfda8cfeb90&te=1766236799
+#EXTINF:-1,[OFFLINE] iptvin.ru/p #FALLBACK-RAW
+http://iptvin.ru/p/?rutube.Belogvardeyets.Ghl09179179#.m3u
+#EXTINF:-1,[OFFLINE] iptv.org.ua/iptv/kzbtv.m3u #FALLBACK-RAW
+https://iptv.org.ua/iptv/kzbtv.m3u
