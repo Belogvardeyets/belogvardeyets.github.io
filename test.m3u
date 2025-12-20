@@ -3,8 +3,8 @@
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/tnt.png", ТНТ
 http://185.46.16.239:8000/TNT
-
-
+#EXTINF:-1 tvg-logo="https://logos.kodibg.org/natgeo.png", National Geographic HD
+https://ucdn.beetv.kz/bpk-tv/000000034/tve/index.m3u8
 
 
 #EXTINF:-1 group-title="Развлечение", ТНТ
