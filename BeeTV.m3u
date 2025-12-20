@@ -1,6 +1,6 @@
-#EXTM3U x-tvg-url="https://github.com/Monoloshka/iptv/raw/refs/heads/main/epgm.xml"
-#EXTINF:0 type="stream" tvg-country="KZ" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/info-kanal.png", Инфоканал
-https://ucdn.beetv.kz/bpk-tv/100006592/tve/index.m3u8
+#EXTM3U
+
+
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/tvxxi.png" tvg-id="tvxxi", ТВ21
 https://ucdn.beetv.kz/bpk-tv/000000006/tve/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/texno-24.png" tvg-id="texno-24", Т24
