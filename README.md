@@ -1,4 +1,23 @@
-# Redme
-В этом репозитории не хранятся видеофайлы. Репозиторий содержит только ссылки на общедоступные URL-адреса видеопотоков, которые, насколько нам известно, были намеренно опубликованы владельцами авторских прав. Если какие-либо ссылки в этом плейлисте нарушают ваши права как владельца авторских прав, их можно удалить, отправив запрос на pull request или написав об этом в issue. Однако обратите внимание, что мы не контролируем место назначения ссылки, и простое удаление ссылки из плейлиста не приведет к удалению ее содержимого из Интернета. Обратите внимание, что ссылка напрямую не нарушает авторские права, поскольку на сайте, предоставляющем ссылку, не создаётся копия, и, следовательно, это не является веской причиной для отправки уведомления DMCA на GitHub. Чтобы удалить этот контент из Интернета, вам следует связаться с веб-хостингом, на котором фактически размещён контент (не с GitHub и не с разработчиками этого репозитория).
+Текст правильный? # Информация
+В данном репозитории не хранятся какие-либо видеофайлы.
+Репозиторий содержит исключительно ссылки на общедоступные URL-адреса видеопотоков, которые, насколько нам известно, были добровольно опубликованы правообладателями или иными законными владельцами контента.
 
-This repository does not host any video files. The repository only contains links to publicly available URLs of video streams that, to the best of our knowledge, have been intentionally published by the copyright holders. If any links in this playlist violate your rights as a copyright holder, they can be removed by submitting a pull request or filing an issue. However, please note that we do not control the destination of the link, and simply removing the link from the playlist will not remove its content from the web. Please note that the link does not directly violate copyright, as no copy is created on the site providing the link, and therefore is not a valid reason to file a DMCA notice with GitHub. To have this content removed from the web, you should contact the web host that actually hosts the content (not GitHub or the maintainers of this repository).
+Если какие-либо ссылки в этом плейлисте, по вашему мнению, нарушают ваши права как правообладателя, вы можете сообщить об этом, создав issue или отправив pull request с просьбой удалить соответствующую ссылку.
+
+Обратите внимание, что разработчики репозитория не контролируют содержимое ресурсов, на которые ведут ссылки. Удаление ссылки из плейлиста не приводит к удалению самого контента из сети Интернет.
+
+Также обращаем внимание, что размещение ссылки само по себе не является нарушением авторских прав, поскольку на стороне GitHub не создаётся и не хранится копия контента. По этой причине отправка DMCA-уведомления в адрес GitHub, как правило, не является эффективной мерой.
+
+Для удаления контента из Интернета вам необходимо связаться с хостинг-провайдером или владельцем ресурса, на котором данный контент фактически размещён, а не с GitHub и не с разработчиками этого репозитория.
+
+# README
+This repository does not store any video files.
+It contains only links to publicly accessible video stream URLs which, to the best of our knowledge, have been intentionally made public by the respective copyright holders or other lawful owners.
+
+If you believe that any links in this playlist infringe your rights as a copyright holder, you may request their removal by opening an issue or submitting a pull request.
+
+Please note that the repository maintainers do not control the content of the linked resources. Removing a link from the playlist does not result in the removal of the content from the Internet.
+
+We also note that providing a link does not, in itself, constitute copyright infringement, as no copy of the content is hosted or distributed by GitHub. For this reason, submitting a DMCA takedown notice to GitHub is generally not an effective course of action.
+
+To have the content removed from the Internet, you should contact the hosting provider or the owner of the website where the content is actually hosted, rather than GitHub or the developers of this repository.
