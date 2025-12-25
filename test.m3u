@@ -5,7 +5,9 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
 http://185.46.16.239:8000/TNT
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/National Geographic.png", National Geographic HD
 https://ucdn.beetv.kz/bpk-tv/000000034/tve/index.m3u8
-
+EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал (+7)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
 
 #EXTINF:-1 group-title="Развлечение", ТНТ
 http://185.46.16.239:8000/TNT
