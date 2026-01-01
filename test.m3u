@@ -289,6 +289,8 @@ http://s03.wsbof.com:8090/s/75ee07b0/shokiruschee-hd.m3u8
 http://s03.wsbof.com:8090/s/75ee07b0/strashnoe-hd.m3u8
 #EXTINF:-1 tvg-id="dushevnoe-hd" group-title="🎥 Кино и Сериалы" tvg-logo="http://epg.one/img2/2019.png",Душевное HD
 http://s03.wsbof.com:8090/s/75ee07b0/nash-kinoroman-hd.m3u8
+#EXTINF:-1 tvg-id="Pro100 TV" tvg-name="Pro100 TV" tvg-logo="http://i122.fastpic.org/big/2023/0703/51/490199c1e55f0ccc4c287d38156a4151.png" group-title="🎥 Кино и Сериалы",Pro100 TV
+http://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-id="365-dnej" group-title="🌎✈️🚉Познавательные" tvg-logo="http://epg.one/img2/2423.png",365 Дней
 http://s03.wsbof.com:8090/s/75ee07b0/365-dnej.m3u8
 #EXTINF:-1 tvg-id="Про Бизнес" tvg-name="Про Бизнес" tvg-logo="http://i115.fastpic.org/big/2021/0927/65/2656cc71b150a691de3ed02c5e90d265.png" group-title="🌎✈️🚉Познавательные ",Про Бизнес
@@ -431,8 +433,6 @@ http://2.57.217.85:8000/play/a08p/index.m3u8
 http://s03.wsbof.com:8090/s/75ee07b0/centralnoe-tv.m3u8
 #EXTINF:-1 tvg-id="prosveschenie" tvg-name="Просвещение" tvg-logo="http://epg.it999.ru/img2/2296.png" group-title="🌎✈️🚉Познавательные ",Просвещение
 http://cdn-01.bonus-tv.ru:80/prosveschenie_edge/index.m3u8
-#EXTINF:-1 tvg-id="kino-i-zhizn" tvg-name="Кино и жизнь HD" tvg-logo="https://epg.iptvx.one/picons/kino-i-zhizn.png" group-title="🎡Развлекательные" ,Кино и жизнь HD
-http://188.208.197.173/kinojizn/video.m3u8?token=Rblztg5NZwI9x2
 #EXTINF:-1 tvg-id="okino" tvg-name="О!Кино" tvg-logo="http://epg.one/img2/9006.png" group-title="🎡Развлекательные ",О!Кино
 http://v4.proofix.ru/okino-tv/index.m3u8
 #EXTINF:-1 tvg-id="Смотрим кино и сериалы HD" tvg-name="Смотрим кино и сериалы HD" tvg-logo="http://i122.fastpic.org/big/2023/0901/2a/291decee8575825a51c2a8b9e550b92a.png" group-title="🎡Развлекательные",Смотрим кино и сериалы HD
