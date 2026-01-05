@@ -347,8 +347,6 @@ http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
 http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
 #EXTINF:-1 tvg-id="CPS Jackie Chan HD" tvg-name="CPS Jackie Chan HD" tvg-logo="http://i120.fastpic.org/big/2022/0623/1a/d8b068bd680a02938e398ed9b4f36c1a.png" group-title="👀🎞 Кинозалы",CPS Jackie Chan HD
 http://hls127.freeott.top:8080/CPS_Jackie_Chan/video.m3u8
-#EXTINF:-1 tvg-id="CPS Mix HD" tvg-name="CPS Mix HD" tvg-logo="http://i120.fastpic.org/big/2022/0623/3f/b61cfe4aeb72fcc99f871fe935528b3f.png" group-title="👀🎞 Кинозалы",CPS Mix HD
-http://hls127.freeott.top:8080/CPS_Mix/video.m3u8
 #EXTINF:-1 tvg-id="CPS Fiction HD" tvg-name="CPS Fiction HD" tvg-logo="http://i120.fastpic.org/big/2022/0623/8d/824c611d821c2febac6b7b7d7988058d.png" group-title="👀🎞 Кинозалы",CPS Fiction HD
 http://hls127.freeott.top:8080/CPS_Fiction/video.m3u8
 #EXTINF:-1 tvg-id="IPTVPLAY УЖАСТИК" tvg-name="IPTVPLAY Ужастик" tvg-logo="http://i122.fastpic.org/big/2024/0112/c6/4e20f9b6ae61d68d9466cf3d1f599cc6.png" group-title="👀🎞 Кинозалы",IPTVPLAY Ужастик
@@ -517,8 +515,8 @@ http://s03.wsbof.com:8090/s/75ee07b0/t24.m3u8
 http://s03.wsbof.com:8090/s/75ee07b0/tochka-otryva.m3u8
 #EXTINF:-1 tvg-id="prikluchenia-hd" group-title="🌎✈️🚉Познавательные" tvg-logo="http://epg.one/img2/2311.png",Приключения HD
 http://tinyurl.com/TvZaTak31/RTGTV/cnb0y9n3633wb3wnppri4wg6?
-#EXTINF:-1 tvg-id="usadba" group-title="🌎✈️🚉Познавательные" tvg-logo="http://epg.one/img2/434.png",Усадьба HD
-http://s03.wsbof.com:8090/s/75ee07b0/usadba-hd.m3u8
+#EXTINF:-1 tvg-id="usadba" group-title="🌎✈️🚉Познавательные" tvg-logo="http://epg.one/img2/434.png",Усадьба
+http://93.170.254.17/Usadba/index.m3u8
 #EXTINF:-1 tvg-id="uspex" tvg-name="Успех" tvg-logo="http://epg.one/img2/2455.png" group-title="🌎✈️🚉Познавательные",Успех
 http://2.57.217.85:8000/play/a08p/index.m3u8
 #EXTINF:-1 tvg-id="centralnoye-tv" tvg-name="Центральное телевидение" tvg-logo="http://epg.one/img2/2400.png" group-title="🌎✈️🚉Познавательные",Центральное телевидение
