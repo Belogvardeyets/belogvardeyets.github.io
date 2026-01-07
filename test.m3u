@@ -216,7 +216,7 @@ http://s03.wsbof.com:8090/s/75ee07b0/kinouzhas-hd.m3u8
 #EXTINF:-1 tvg-id="kinoxit" group-title="🎥 Кино и Сериалы" tvg-logo="http://epg.one/img2/542.png",Кинохит
 http://195.26.83.96:7005/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="Комедийное HD" group-title="🎥 Кино и Сериалы" tvg-logo="http://epg.one/img2/138.png",Комедийное HD
-http://s03.wsbof.com:8090/s/75ee07b0/komedijnoe-hd.m3u8
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E1:2E&stream=529614&extension=ts
 #EXTINF:-1 tvg-id="kriminalnoe-hd" tvg-name="Криминальное HD" tvg-logo="http://epg.one/img2/7844.png" group-title="🎥 Кино и Сериалы",Криминальное HD
 http://s03.wsbof.com:8090/s/75ee07b0/kriminalnoe-hd.m3u8
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-name="Любимое кино HD" tvg-logo="http://epg.one/img2/477.png" group-title="🎥 Кино и Сериалы",Любимое кино HD
