@@ -34,7 +34,7 @@ http://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 #EXTINF:-1 tvg-id="nastoyaschee-vremia" tvg-name="Настоящее время" group-title="🆕 Новостные"  tvg-logo="http://epg.one/img2/2142.png",Настоящее время
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:-1 tvg-id="dozhd" group-title="🆕 Новостные" tvg-logo="http://epg.one/img2/2399.png",Дождь HD
-http://mag.senpay25.com/play/live.php?mac=00:1A:79:7C:FB:04&stream=300761&extension=ts
+http://s03.wsbof.com:8090/s/75ee07b0/dozhd-hd.m3u8
 #EXTINF:-1 tvg-id="solovjinypomiot" tvg-name="Соловьёв Live HD" group-title="🆕 Новостные" tvg-logo="https://bcumedia.pro/storage/images/channels/527f78bd17c5a8457350b390cc57d0d2.png?d=1730568917",Соловьёв Live HD
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
 #EXTINF:-1 tvg-id="no_epg_news" tvg-name="ТАСС HD" tvg-logo="https://i.postimg.cc/cC0PtfML/image.png" group-title="🆕 Новостные",ТАСС HD
@@ -154,9 +154,9 @@ http://s03.wsbof.com:8090/s/75ee07b0/viju-tv1000-nowella-hd.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="🎥 Кино и Сериалы" tvg-logo="http://epg.one/img2/267.png",Viju TV1000 русское HD
 http://s03.wsbof.com:8090/s/75ee07b0/tv1000-russkoje-hd.m3u8
 #EXTINF:-1 tvg-id="vip-comedy" group-title="🎥 Кино и Сериалы" tvg-logo="http://epg.one/img2/1011.png",Viju+ Comedy HD
-http://91.207.115.228:5000/c143
+http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529674&extension=ts
 #EXTINF:-1 tvg-id="vip-megahit" tvg-name="Viju+ Megahit HD" tvg-logo="http://epg.one/img2/1012.png" group-title="🎥 Кино и Сериалы",Viju+ Megahit HD
-http://91.207.115.228:5000/c144
+http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529675&extension=ts
 #EXTINF:-1 tvg-id="vip-premiere" group-title="🎥 Кино и Сериалы" tvg-logo="https://epg.iptvx.one/picons/vip-premiere.png",Viju+ Premiere HD
 http://2.57.217.85:8000/play/a03f/index.m3u8
 #EXTINF:-1 tvg-id="2838" tvg-logo="http://epg.one/img2/2838.png" group-title="🎥 Кино и Сериалы",Viju+ Serial HD
@@ -180,7 +180,7 @@ http://vod.tuva.ru/eurokino/index.m3u8
 #EXTINF:-1 tvg-id="illuzion-plus" group-title="🎥 Кино и Сериалы" tvg-logo="http://epg.one/img2/2403.png",Иллюзион+ HD
 http://s03.wsbof.com:8090/s/75ee07b0/iluzion-plus-hd.m3u8
 #EXTINF:-1 tvg-id="indiyskoe-kin" group-title="🎥 Кино и Сериалы"  tvg-logo="http://epg.one/img2/798.png",Индийское кино
-http://s03.wsbof.com:8090/s/75ee07b0/indija-tv.m3u8
+https://vod.splay.uz/live_splay/original/Indiyskoe_Kino/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Индия HD" tvg-name="Индия" tvg-logo="https://bcumedia.pro/storage/images/channels/1e820efe2045b33ef4b47392788a8c5a.png?d=1719148815" group-title="🎥 Кино и Сериалы ",Индия
 http://178.212.71.253:8000/play/59/index.m3u8
 #EXTINF:-1 tvg-id="kamedi" tvg-name="Камеди HD" tvg-logo="https://bcumedia.pro/storage/images/channels/8ec66f437e9a740e01daee6087eb2deb.png?d=1719324915" group-title="🎥 Кино и Сериалы ",Камеди HD
@@ -283,12 +283,12 @@ http://s03.wsbof.com:8090/s/75ee07b0/strashnoe-hd.m3u8
 http://s03.wsbof.com:8090/s/75ee07b0/nash-kinoroman-hd.m3u8
 #EXTINF:-1 tvg-id="Pro100 TV" tvg-name="Pro100 TV" tvg-logo="http://i122.fastpic.org/big/2023/0703/51/490199c1e55f0ccc4c287d38156a4151.png" group-title="🎥 Кино и Сериалы",Pro100 TV
 http://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
-#EXTINF:-1 tvg-id="smotrim-100-muzhskoe" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-muzhskoe.png" group-title="🎥 Кино и Сериалы",Смотрим Мужское
-http://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d.m3u8
 #EXTINF:-1 tvg-id="kinosweet" tvg-logo="http://epg.one/img2/8920.png" group-title="🎥 Кино и Сериалы",Kinosweet HD
 http://193.27.209.122/kinosweet/index.m3u8
 #EXTINF:-1 tvg-id="amc" tvg-name="AMC HD" tvg-logo="http://epg.one/img2/2376.png" group-title="🎥 Кино и Сериалы",AMC HD
 http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529625&extension=ts
+#EXTINF:-1 tvg-id="8911" tvg-logo="http://epg.one/img2/8911.png" group-title="🎥 Кино и Сериалы",Film UA Drama
+http://188.225.31.197/bpk-tv/000003028/tve/index.m3u8
 #EXTINF:-1 tvg-id="2394" tvg-logo="http://epg.one/img2/2394.png" group-title="🎥 Кино и Сериалы",ATV Cineman
 http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="2393" tvg-logo="http://epg.one/img2/2393.png" group-title="🎥 Кино и Сериалы",ATV Bazmoc
@@ -533,6 +533,12 @@ http://cdn-01.bonus-tv.ru:80/prosveschenie_edge/index.m3u8
 http://v4.proofix.ru/okino-tv/index.m3u8
 #EXTINF:-1 tvg-id="Смотрим кино и сериалы HD" tvg-name="Смотрим кино и сериалы HD" tvg-logo="http://i122.fastpic.org/big/2023/0901/2a/291decee8575825a51c2a8b9e550b92a.png" group-title="🎡Развлекательные",Смотрим кино и сериалы HD
 http://dmitry-tv.ddns.net/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
+#EXTINF:-1 tvg-id="smotrim-100-muzhskoe" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-muzhskoe.png" group-title="🎥 Кино и Сериалы",Смотрим 100% Мужское HD
+http://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d.m3u8
+#EXTINF:-1  tvg-id="smotrim-100-klassika"  tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/727/741/8.png" group-title="🎥 Кино и Сериалы",Смотрим 100% Классика HD
+https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
+#EXTINF:-1  tvg-id="smotrim-100-lubov"  tvg-logo="https://epg.iptvx.one/picons/smotrim-100-lubov.png" group-title="🎥 Кино и Сериалы" ,Смотрим 100% Любовь HD
+https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
 #EXTINF:-1 tvg-id="6270" tvg-name="Музыка Кино International" tvg-logo="http://epg.one/img2/6270.png" group-title="🎶🔉 Музыкальные", Музыка Кино International
 https://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 tvg-id="detkinoint-tviksel" tvg-name="Детское кино International" tvg-logo="http://epg.one/img2/6261.png" group-title="👼 Детские ",Детское кино International
