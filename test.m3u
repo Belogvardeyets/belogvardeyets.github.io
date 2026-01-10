@@ -188,7 +188,7 @@ http://s03.wsbof.com:8090/s/75ee07b0/kineko-hd.m3u8
 #EXTINF:-1 tvg-id="kino1int-tviksel" tvg-name="Кино 1 International" tvg-logo="http://epg.one/img2/6258.png" group-title="🎥 Кино и Сериалы ",Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="kino-tv" group-title="🎥 Кино и Сериалы" tvg-logo="http://epg.one/img2/1037.png",Кино ТВ HD
-http://s03.wsbof.com:8090/s/75ee07b0/kino-tv-hd.m3u8
+http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529605&extension=ts
 #EXTINF:-1 tvg-id="russkaya-komedia" group-title="🎥 Кино и Сериалы" tvg-logo="http://epg.one/img2/1620.png",Комедия
 http://95.66.188.74/Comedia/mono.m3u8
 #EXTINF:-1 tvg-id="kinokomedia" group-title="🎥 Кино и Сериалы" tvg-logo="http://epg.one/img2/821.png",Кинокомедия HD
