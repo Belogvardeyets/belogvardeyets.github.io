@@ -31,8 +31,10 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-id="360-news" tvg-name="360 Новости" tvg-logo="http://epg.one/img2/4458.png" group-title="🆕 Новостные",360 Новости
 http://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
+#EXTINF:-1 tvg-id="ОСН ТВ" tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2025/05/logo-new-light.png?x18774" group-title="🆕 Новостные",ОСН ТВ
+http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:-1 tvg-id="nastoyaschee-vremia" tvg-name="Настоящее время" group-title="🆕 Новостные"  tvg-logo="http://epg.one/img2/2142.png",Настоящее время
-https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
+http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529713&extension=ts
 #EXTINF:-1 tvg-id="dozhd" group-title="🆕 Новостные" tvg-logo="http://epg.one/img2/2399.png",Дождь HD
 http://s03.wsbof.com:8090/s/75ee07b0/dozhd-hd.m3u8
 #EXTINF:-1 tvg-id="solovjinypomiot" tvg-name="Соловьёв Live HD" group-title="🆕 Новостные" tvg-logo="https://bcumedia.pro/storage/images/channels/527f78bd17c5a8457350b390cc57d0d2.png?d=1730568917",Соловьёв Live HD
@@ -156,9 +158,9 @@ http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529674&extensi
 #EXTINF:-1 tvg-id="vip-megahit" tvg-name="Viju+ Megahit HD" tvg-logo="http://epg.one/img2/1012.png" group-title="🎥 Кино и Сериалы",Viju+ Megahit HD
 http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529675&extension=ts
 #EXTINF:-1 tvg-id="vip-premiere" group-title="🎥 Кино и Сериалы" tvg-logo="https://epg.iptvx.one/picons/vip-premiere.png",Viju+ Premiere HD
-http://2.57.217.85:8000/play/a03f/index.m3u8
+http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529676&extension=ts
 #EXTINF:-1 tvg-id="2838" tvg-logo="http://epg.one/img2/2838.png" group-title="🎥 Кино и Сериалы",Viju+ Serial HD
-http://tinyurl.com/TvZaTak31/Z3GNAsx6Gl/cnb0y9n3633wb3wnppri4wg6?
+http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529677&extension=ts
 #EXTINF:-1 tvg-id="arsenaltv" tvg-name="Арсенал HD" tvg-logo="http://epg.one/img2/2768.png" group-title="🎥 Кино и Сериалы",Арсенал HD
 http://95.66.188.74/Arsenal_HD/mono.m3u8
 #EXTINF:-1 tvg-id="blokbaster" group-title="🎥 Кино и Сериалы" tvg-logo="http://epg.one/img2/2832.png",Блокбастер HD
@@ -200,7 +202,7 @@ http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8
 #EXTINF:-1 tvg-id="kinopokaz-hd" tvg-name="Наш Кинопоказ HD" tvg-logo="http://epg.one/img2/2831.png" group-title="🎥 Кино и Сериалы ",Наш Кинопоказ HD
 http://s03.wsbof.com:8090/s/75ee07b0/nash-kinopokaz-hd.m3u8
 #EXTINF:-1 tvg-id="kinopremiera-hd" group-title="🎥 Кино и Сериалы" tvg-logo="http://epg.one/img2/566.png",Кинопремьера HD
-http://185.58.205.1:4022/udp/224.0.90.216:1234
+http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529610&extension=ts
 #EXTINF:-1 tvg-id="kinosvidanie" group-title="🎥 Кино и Сериалы" tvg-logo="http://epg.one/img2/462.png",Киносвидание HD
 http://178.212.71.253:8000/play/122/index.m3u8
 #EXTINF:-1 tvg-id="Киносемья Int. HD" tvg-name="Киносемья HD" tvg-logo="http://epg.one/img2/987.png" group-title="🎥 Кино и Сериалы",Киносемья HD
@@ -230,7 +232,7 @@ http://hls127.freeott.top:8080/Nashe_HD/mono.m3u8
 #EXTINF:-1 tvg-id="nashe-muzhskoe" tvg-name="Наше Мужское HD" tvg-logo="http://epg.one/img2/2835.png" group-title="🎥 Кино и Сериалы ",Наше Мужское HD
 http://s03.wsbof.com:8090/s/75ee07b0/nashe-muzshkoe-hd.m3u8
 #EXTINF:-1 tvg-id="nashe-novoe-kino" group-title="🎥 Кино и Сериалы " tvg-logo="http://epg.one/img2/485.png",Наше Новое Кино
-http://146.120.14.239:3001/play/a0ih
+http://vod1.stb.tvime.ru/Nashe_Novoe_Kino_HD/video.m3u8?token=billing_6WJDKE9cG25U
 #EXTINF:-1 tvg-id="nst" tvg-logo="http://epg.one/img2/518.png" group-title="🎥 Кино и Сериалы",НСТ
 http://hls127.freeott.top:8080/HCTV/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-serial" group-title="🎥 Кино и Сериалы" tvg-logo="http://epg.one/img2/1754.png",НТВ Сериал
@@ -248,9 +250,9 @@ http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="pro-lyubov" tvg-name="Про любовь HD" tvg-logo="http://epg.one/img2/2829.png" group-title="🎥 Кино и Сериалы",Про любовь HD
 http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
 #EXTINF:-1 tvg-id="retro-tv" group-title="🎥 Кино и Сериалы"  tvg-logo="http://epg.one/img2/2402.png",Ретро ТВ
-https://vod.splay.uz/live_splay/original/Retro/index.m3u8
+https://vod.splay.uz/live_splay/original/Retro/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Родное кино Int" group-title="🎥 Кино и Сериалы" tvg-logo="http://epg.one/img2/12.png",Родное кино
-http://146.120.14.239:3001/play/a07z
+http://vod1.stb.tvime.ru/Rodnoe_Kino/video.m3u8?token=billing_6WJDKE9cG25U
 #EXTINF:-1 tvg-id="romantichnoe-hd" tvg-name="Романтичное HD" tvg-logo="http://epg.one/img2/2772.png" group-title="🎥 Кино и Сериалы",Романтичное HD
 http://s03.wsbof.com:8090/s/75ee07b0/romantichnoe-hd.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-name="Русский Бестселлер" tvg-logo="http://epg.one/img2/994.png" group-title="🎥 Кино и Сериалы",Русский Бестселлер
@@ -281,6 +283,8 @@ http://s03.wsbof.com:8090/s/75ee07b0/nash-kinoroman-hd.m3u8
 http://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-id="kinosweet" tvg-logo="http://epg.one/img2/8920.png" group-title="🎥 Кино и Сериалы",Kinosweet HD
 http://193.27.209.122/kinosweet/index.m3u8
+#EXTINF:-1 tvg-id="kinowood" tvg-logo="http://epg.one/img2/8921.png" group-title="🎥 Кино и Сериалы",Kinowood HD
+http://193.27.209.122/kinowood/index.m3u8
 #EXTINF:-1 tvg-id="amc" tvg-name="AMC HD" tvg-logo="http://epg.one/img2/2376.png" group-title="🎥 Кино и Сериалы",AMC HD
 http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529625&extension=ts
 #EXTINF:-1 tvg-id="8911" tvg-logo="http://epg.one/img2/8911.png" group-title="🎥 Кино и Сериалы",Film UA Drama
@@ -523,12 +527,12 @@ http://s03.wsbof.com:8090/s/75ee07b0/tochka-otryva.m3u8
 http://tinyurl.com/TvZaTak31/RTGTV/cnb0y9n3633wb3wnppri4wg6?
 #EXTINF:-1 tvg-id="usadba" group-title="🌎✈️🚉Познавательные" tvg-logo="http://epg.one/img2/434.png",Усадьба
 http://93.170.254.17/Usadba/index.m3u8
-#EXTINF:-1 tvg-id="uspex" tvg-name="Успех" tvg-logo="http://epg.one/img2/2455.png" group-title="🌎✈️🚉Познавательные",Успех
-http://2.57.217.85:8000/play/a08p/index.m3u8
 #EXTINF:-1 tvg-id="centralnoye-tv" tvg-name="Центральное телевидение" tvg-logo="http://epg.one/img2/2400.png" group-title="🌎✈️🚉Познавательные",Центральное телевидение
 http://s03.wsbof.com:8090/s/75ee07b0/centralnoe-tv.m3u8
-#EXTINF:-1 tvg-id="prosveschenie" tvg-name="Просвещение" tvg-logo="http://epg.it999.ru/img2/2296.png" group-title="🌎✈️🚉Познавательные ",Просвещение
+#EXTINF:-1 tvg-id="prosveschenie" tvg-name="Просвещение" tvg-logo="http://epg.it999.ru/img2/2296.png" group-title="🌎✈️🚉Познавательные",Просвещение
 http://cdn-01.bonus-tv.ru:80/prosveschenie_edge/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://kino-static.tricolor.ru/media/v2/9e222142-1394-449e-95f8-8de6267e44c5" group-title="🌎✈️🚉Познавательные",Знание HD
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_9
 #EXTINF:-1 tvg-id="okino" tvg-name="О!Кино" tvg-logo="http://epg.one/img2/9006.png" group-title="🎡Развлекательные ",О!Кино
 http://v4.proofix.ru/okino-tv/index.m3u8
 #EXTINF:-1 tvg-id="Смотрим кино и сериалы HD" tvg-name="Смотрим кино и сериалы HD" tvg-logo="http://i122.fastpic.org/big/2023/0901/2a/291decee8575825a51c2a8b9e550b92a.png" group-title="🎡Развлекательные",Смотрим кино и сериалы HD
