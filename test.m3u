@@ -168,7 +168,7 @@ http://tinyurl.com/TvZaTak31/uLtArDiNkM/cnb0y9n3633wb3wnppri4wg6?
 #EXTINF:-1 tvg-id="vremia" group-title="🎥 Кино и Сериалы" tvg-logo="http://epg.one/img2/669.png",Время
 http://193.25.8.59:8000/vremya
 #EXTINF:-1 tvg-id="denpobedy" tvg-name="День победы HD" tvg-logo="http://epg.one/img2/2773.png" group-title="🎥 Кино и Сериалы",День победы HD
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Den_Pobedy
+http://tinyurl.com/TvZaTak31/wioSowKrOD/cnb0y9n3633wb3wnppri4wg6
 #EXTINF:-1 tvg-id="domkino" tvg-name="Дом Кино" tvg-logo="http://epg.one/img2/834.png" group-title="🎥 Кино и Сериалы",Дом Кино
 http://s03.wsbof.com:8090/s/75ee07b0/dom-kino.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" group-title="🎥 Кино и Сериалы" tvg-logo="http://epg.one/img2/2020.png",Дом Кино Премиум HD
@@ -278,7 +278,7 @@ http://s03.wsbof.com:8090/s/75ee07b0/shokiruschee-hd.m3u8
 #EXTINF:-1 tvg-id="strashnoe-hd" group-title="🎥 Кино и Сериалы" tvg-logo="http://epg.one/img2/2857.png",Страшное HD
 http://s03.wsbof.com:8090/s/75ee07b0/strashnoe-hd.m3u8
 #EXTINF:-1 tvg-id="dushevnoe-hd" group-title="🎥 Кино и Сериалы" tvg-logo="http://epg.one/img2/2019.png",Душевное HD
-http://s03.wsbof.com:8090/s/75ee07b0/nash-kinoroman-hd.m3u8
+http://tv.lamro.workers.dev/?ID=5231
 #EXTINF:-1 tvg-id="Pro100 TV" tvg-name="Pro100 TV" tvg-logo="http://i122.fastpic.org/big/2023/0703/51/490199c1e55f0ccc4c287d38156a4151.png" group-title="🎥 Кино и Сериалы",Pro100 TV
 http://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-id="kinosweet" tvg-logo="http://epg.one/img2/8920.png" group-title="🎥 Кино и Сериалы",Kinosweet HD
@@ -381,6 +381,28 @@ http://tinyurl.com/TvZaTak37/MyTV2/video.m3u8?token=freeportal&token=bf2e06d8c95
 http://tinyurl.com/TvZaTak37/MyTV3/video.m3u8?token=freeportal&token=a67609a58974d8d899c63c342c292af3
 #EXTINF:-1 tvg-id="107" tvg-logo="http://epg.one/img2/107.png" group-title="👀🎞 Кинозалы",MYTV HIT
 http://tinyurl.com/TvZaTak37/MyTV_Hit/video.m3u8?token=freeportal&token=a1ecd668e05f5ce07c81130c9d7fb362
+#EXTINF:-1 tvg-id="Сити Эдем - КиноЭкшен" tvg-name="Сити Эдем - КиноЭкшен" tvg-logo="http://i123.fastpic.org/big/2024/0708/e8/025585d63ecd857a98e0cb11049e5ae8.png" group-title="👀🎞 Кинозалы", Сити Эдем - КиноЭкшен
+https://autopilot.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1 tvg-id="Сити Эдем - КиноМистика" tvg-name="Сити Эдем - КиноМистика" tvg-logo="http://i123.fastpic.org/big/2024/0707/ab/6d8bdad588de5a4a0b683ad4d2cd7bab.png" group-title="👀🎞 Кинозалы", Сити Эдем - КиноМистика
+https://autopilot.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 tvg-id="cityedem-kinoazia" tvg-logo="https://epg.iptvx.one/picons/cityedem-kinoazia.png" group-title="👀🎞 Кинозалы",Сити Эдем - КиноАзия
+https://cityeden.catcast.tv/content/34393/index.m3u8
+#EXTINF:-1 tvg-id="Сити Эдем - КиноДетектив" tvg-logo="http://i123.fastpic.org/big/2024/0707/b9/9c1ab9278c817afbb761a02a90048eb9.png" group-title="👀🎞 Кинозалы", Сити Эдем - КиноДетектив
+https://cityeden.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1 tvg-id="Сити Эдем - КиноДок" tvg-logo="http://i123.fastpic.org/big/2024/0707/0c/47d20f218ce522f5ad2c71916dd1f90c.png" group-title="👀🎞 Кинозалы", Сити Эдем - КиноДок
+https://cityeden.catcast.tv/content/38354/index.m3u8
+#EXTINF:-1 tvg-id="Сити Эдем - КиноДрама" tvg-logo="http://i123.fastpic.org/big/2024/0707/0a/9bdfb6276a238246f5d3c70f5939be0a.png" group-title="👀🎞 Кинозалы",Сити Эдем - КиноДрама
+https://cityeden.catcast.tv/content/45269/index.m3u8
+#EXTINF:-1 tvg-id="cityedem-kinoklas" tvg-logo="https://epg.iptvx.one/picons/cityedem-kinoklas.png" group-title="👀🎞 Кинозалы", Сити Эдем - КиноКлассика
+https://cityeden.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1 tvg-id="Сити Эдем - КиноКомедия" tvg-logo="http://i123.fastpic.org/big/2024/0708/8b/e5dd42ddad571125b365e5004157c38b.png" group-title="👀🎞 Кинозалы", Сити Эдем - КиноКомедия
+https://cityeden.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1 tvg-id="СитиЭдем - КиноФантастика" tvg-logo="http://i123.fastpic.org/big/2024/0707/66/a4c30fc86117e97731b2aaacf346cf66.png" group-title="👀🎞 Кинозалы",Сити Эдем - КиноФантастика
+https://cityeden.catcast.tv/content/45268/index.m3u8
+#EXTINF:-1 tvg-id="Сити Эдем - КиноАрт" tvg-logo="http://i123.fastpic.org/big/2024/0707/fe/90245379e74f15e531ae986e72b2dbfe.png" group-title="👀🎞 Кинозалы",Сити Эдем - КиноАрт
+https://autopilot.catcast.tv/content/38398/index.m3u8?password=loganet
+#EXTINF:-1 tvg-id="Сити Эдем - КиноСемья" tvg-logo="http://i123.fastpic.org/big/2024/0707/af/e4ae33edca0e150e90c0f6b4494e9aaf.png" group-title="👀🎞 Кинозалы",Сити Эдем — КиноСемья
+https://autopilot.catcast.tv/content/38128/index.m3u8?password=loganet
 #EXTINF:-1 tvg-id="365-dnej" group-title="🌎✈️🚉Познавательные" tvg-logo="http://epg.one/img2/2423.png",365 Дней
 http://s03.wsbof.com:8090/s/75ee07b0/365-dnej.m3u8
 #EXTINF:-1 tvg-id="Про Бизнес" tvg-name="Про Бизнес" tvg-logo="http://i115.fastpic.org/big/2021/0927/65/2656cc71b150a691de3ed02c5e90d265.png" group-title="🌎✈️🚉Познавательные ",Про Бизнес
@@ -485,8 +507,6 @@ http://hls127.freeott.top:8080/Istoriya/mono.m3u8
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Кто есть кто" group-title="🌎✈️🚉Познавательные" tvg-logo="http://epg.one/img2/2456.png",Кто есть кто
 http://178.212.71.253:8000/play/132/index.m3u8
-#EXTINF:-1 tvg-id="mir-vokrug" tvg-name="Мир Вокруг HD" tvg-logo="http://epg.one/img2/5642.png" group-title="🌎✈️🚉Познавательные ",Мир Вокруг HD
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Mir_vokrug_HD&serviceArea=GLOBAL
 #EXTINF:-1 tvg-id="moskovsky-obrazovatelny" tvg-name="Мособр TV HD" tvg-logo="https://epg.iptvx.one/picons/moskovsky-obrazovatelny.png" group-title="🌎✈️🚉Познавательные ",Мособр TV HD
 https://retrtb.educom.ru/mosobrtv/tv2/index.m3u8
 #EXTINF:-1 tvg-id="moya-planeta" tvg-name="Моя Планета HD" tvg-logo="http://epg.one/img2/675.png" group-title="🌎✈️🚉Познавательные",Моя Планета HD
@@ -531,8 +551,6 @@ http://93.170.254.17/Usadba/index.m3u8
 http://s03.wsbof.com:8090/s/75ee07b0/centralnoe-tv.m3u8
 #EXTINF:-1 tvg-id="prosveschenie" tvg-name="Просвещение" tvg-logo="http://epg.it999.ru/img2/2296.png" group-title="🌎✈️🚉Познавательные",Просвещение
 http://cdn-01.bonus-tv.ru:80/prosveschenie_edge/index.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://kino-static.tricolor.ru/media/v2/9e222142-1394-449e-95f8-8de6267e44c5" group-title="🌎✈️🚉Познавательные",Знание HD
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinozal_9
 #EXTINF:-1 tvg-id="okino" tvg-name="О!Кино" tvg-logo="http://epg.one/img2/9006.png" group-title="🎡Развлекательные ",О!Кино
 http://v4.proofix.ru/okino-tv/index.m3u8
 #EXTINF:-1 tvg-id="Смотрим кино и сериалы HD" tvg-name="Смотрим кино и сериалы HD" tvg-logo="http://i122.fastpic.org/big/2023/0901/2a/291decee8575825a51c2a8b9e550b92a.png" group-title="🎡Развлекательные",Смотрим кино и сериалы HD
