@@ -60,7 +60,7 @@ http://hls127.freeott.top:8080/Amedia_1/mono.m3u8
 #EXTINF:-1 tvg-id="amedia2" tvg-name="Amedia 2 HD" tvg-logo="http://epg.one/img2/2492.png" group-title="🎥 Кино и Сериалы",Amedia 2 HD
 http://hls127.freeott.top:8080/Amedia_2_HD/video.m3u8
 #EXTINF:-1 tvg-id="amedia-premium" group-title="🎥 Кино и Сериалы" tvg-logo="http://epg.one/img2/1372.png",Amedia Premium HD
-http://vod1.stb.tvime.ru/Amedia_Premium_HD/video.m3u8?token=billing_6WJDKE9cG25U
+http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529683&extension=ts
 #EXTINF:-1 tvg-id="amedia-hit" group-title="🎥 Кино и Сериалы" tvg-logo="http://epg.one/img2/2007.png",Amedia Hit HD
 http://s03.wsbof.com:8090/s/75ee07b0/amedia-hit-hd.m3u8
 #EXTINF:-1 tvg-id="bollywood-hd" tvg-name="Bollywood HD" tvg-logo="http://epg.one/img2/1395.png" group-title="🎥 Кино и Сериалы",Bollywood HD
@@ -232,7 +232,7 @@ http://hls127.freeott.top:8080/Nashe_HD/mono.m3u8
 #EXTINF:-1 tvg-id="nashe-muzhskoe" tvg-name="Наше Мужское HD" tvg-logo="http://epg.one/img2/2835.png" group-title="🎥 Кино и Сериалы ",Наше Мужское HD
 http://s03.wsbof.com:8090/s/75ee07b0/nashe-muzshkoe-hd.m3u8
 #EXTINF:-1 tvg-id="nashe-novoe-kino" group-title="🎥 Кино и Сериалы " tvg-logo="http://epg.one/img2/485.png",Наше Новое Кино
-http://vod1.stb.tvime.ru/Nashe_Novoe_Kino_HD/video.m3u8?token=billing_6WJDKE9cG25U
+http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
 #EXTINF:-1 tvg-id="nst" tvg-logo="http://epg.one/img2/518.png" group-title="🎥 Кино и Сериалы",НСТ
 http://hls127.freeott.top:8080/HCTV/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-serial" group-title="🎥 Кино и Сериалы" tvg-logo="http://epg.one/img2/1754.png",НТВ Сериал
@@ -252,7 +252,7 @@ http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
 #EXTINF:-1 tvg-id="retro-tv" group-title="🎥 Кино и Сериалы"  tvg-logo="http://epg.one/img2/2402.png",Ретро ТВ
 https://vod.splay.uz/live_splay/original/Retro/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Родное кино Int" group-title="🎥 Кино и Сериалы" tvg-logo="http://epg.one/img2/12.png",Родное кино
-http://vod1.stb.tvime.ru/Rodnoe_Kino/video.m3u8?token=billing_6WJDKE9cG25U
+http://31.148.48.15/Rodnoe_kino/index.m3u8
 #EXTINF:-1 tvg-id="romantichnoe-hd" tvg-name="Романтичное HD" tvg-logo="http://epg.one/img2/2772.png" group-title="🎥 Кино и Сериалы",Романтичное HD
 http://s03.wsbof.com:8090/s/75ee07b0/romantichnoe-hd.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" tvg-name="Русский Бестселлер" tvg-logo="http://epg.one/img2/994.png" group-title="🎥 Кино и Сериалы",Русский Бестселлер
