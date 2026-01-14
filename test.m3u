@@ -33,14 +33,16 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 http://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 #EXTINF:-1 tvg-id="ОСН ТВ" tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2025/05/logo-new-light.png?x18774" group-title="🆕 Новостные",ОСН ТВ
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
-#EXTINF:-1 tvg-id="nastoyaschee-vremia" tvg-name="Настоящее время" group-title="🆕 Новостные"  tvg-logo="http://epg.one/img2/2142.png",Настоящее время
+#EXTINF:-1 tvg-id="nastoyaschee-vremia" tvg-name="Настоящее время [СМИ иногент]" group-title="🆕 Новостные"  tvg-logo="http://epg.one/img2/2142.png",Настоящее время [СМИ иногент]
 http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529713&extension=ts
-#EXTINF:-1 tvg-id="dozhd" group-title="🆕 Новостные" tvg-logo="http://epg.one/img2/2399.png",Дождь HD
+#EXTINF:-1 tvg-id="dozhd" group-title="🆕 Новостные" tvg-logo="http://epg.one/img2/2399.png",Дождь HD [СМИ иногент]
 http://s03.wsbof.com:8090/s/75ee07b0/dozhd-hd.m3u8
 #EXTINF:-1 tvg-id="solovjinypomiot" tvg-name="Соловьёв Live HD" group-title="🆕 Новостные" tvg-logo="https://bcumedia.pro/storage/images/channels/527f78bd17c5a8457350b390cc57d0d2.png?d=1730568917",Соловьёв Live HD
 http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
 #EXTINF:-1 tvg-id="no_epg_news" tvg-name="ТАСС HD" tvg-logo="https://i.postimg.cc/cC0PtfML/image.png" group-title="🆕 Новостные",ТАСС HD
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/playlist.m3u8
+#EXTINF:-1 tvg-id="Вести ФМ" tvg-logo="https://api.radioplayer.ru/images/lgezzvlm_colored_png.png" group-title="🆕 Новостные",Радио Вести FM
+http://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173
 #EXTINF:-1 tvg-id="rbk" tvg-name="РБК" tvg-logo="http://epg.one/img2/743.png" group-title="🆕 Новостные" catchup="append"catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",РБК
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_KRDAR_RBC-KRD/variant.m3u8
 #EXTINF:-1 tvg-id="sony-turbo" group-title="🎥 Кино и Сериалы" tvg-logo="http://epg.one/img2/935.png",.Black HD
@@ -144,11 +146,9 @@ http://ip1.orgip.net/1605/video.m3u8?token=C0cc72be19
 #EXTINF:-1 tvg-id="viasat-serial" tvg-name="Viasat Serial HD" tvg-logo="https://epg.iptvx.one/picons/viasat-serial.png" group-title="🎥 Кино и Сериалы",Viasat Serial HD
 http://ronaldo.tvfor.pro/hSkdthHfh3t/434exeg2tikzusx3dukea343
 #EXTINF:-1 tvg-id="tv1000-action" group-title="🎥 Кино и Сериалы" tvg-logo="http://epg.one/img2/125.png",Viju TV1000 Action HD
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=g3a_GVQQWGx7BJjQCKghfA&e=1768216084&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+http://s03.wsbof.com:8090/s/75ee07b0/tv1000-action-hd.m3u8
 #EXTINF:-1 tvg-id="tv1000" group-title="🎥 Кино и Сериалы" tvg-logo="http://epg.one/img2/127.png",Viju TV1000 HD
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=uvExutPkbf3-bl5Tz8feIA&e=1768216059&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
-#EXTINF:-1 tvg-id="viju-tv1000-romantica" tvg-name="Viju TV1000 Romantica HD" group-title="🎥 Кино и Сериалы", Viju TV1000 Romantica HD
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=Ned7ek8tbGcQkuE1EvW30w&e=1768216028&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E1:2E&stream=529668&extension=ts
 #EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-name="Viju TV1000 Новелла HD" tvg-logo="http://epg.one/img2/9057.png" group-title="🎥 Кино и Сериалы",Viju TV1000 Новелла HD
 http://s03.wsbof.com:8090/s/75ee07b0/viju-tv1000-nowella-hd.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="🎥 Кино и Сериалы" tvg-logo="http://epg.one/img2/267.png",Viju TV1000 русское HD
@@ -332,7 +332,15 @@ http://hls127.freeott.top:8080/Clarity4K_Semeyniy/video.m3u8
 #EXTINF:-1 tvg-id="clarity4k-fentezy" tvg-name="Clarity4K Фэнтези" tvg-logo="https://epg.iptvx.one/picons/clarity4k-fentezy.png" group-title="👀🎞 Кинозалы ",Clarity4K Фэнтези
 http://hls127.freeott.top:8080/Clarity4K_Fentazi/video.m3u8
 #EXTINF:-1 tvg-id="bcu-kinorating" tvg-name="BCU Kinorating HD" tvg-logo="https://epg.iptvx.one/picons/bcu-kinorating.png" group-title="👀🎞 Кинозалы",BCU Kinorating HD
-http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
+http://ronaldo.tvfor.pro/MWrbyDsABm/434exeg2tikzusx3dukea343
+#EXTINF:-1 tvg-id="bcu-cinema" tvg-name="BCU Cinema HD" tvg-logo="https://epg.iptvx.one/picons/bcu-cinema.png" group-title="👀🎞 Кинозалы",BCU Cinema HD
+http://ronaldo.tvfor.pro/UPVMgotbxa/434exeg2tikzusx3dukea343
+#EXTINF:-1 tvg-id="bcu-cinemaplus" tvg-name="BCU Cinema+ HD" tvg-logo="https://epg.iptvx.one/picons/bcu-cinemaplus.png" group-title="👀🎞 Кинозалы",BCU Cinema+ HD
+http://ronaldo.tvfor.pro/LFljARWTBj/434exeg2tikzusx3dukea343
+#EXTINF:-1 tvg-id="bcu-romantic" tvg-name="BCU Romantic HD" tvg-logo="https://epg.iptvx.one/picons/bcu-romantic.png" group-title="👀🎞 Кинозалы",BCU Romantic HD
+http://ronaldo.tvfor.pro/TgHLYtkVDK/434exeg2tikzusx3dukea343
+#EXTINF:-1 tvg-id="bcu-comedy" tvg-name="BCU Comedy HD" tvg-logo="https://epg.iptvx.one/picons/bcu-comedy.png" group-title="👀🎞 Кинозалы",BCU Comedy HD
+http://ronaldo.tvfor.pro/ufBGgULrKs/434exeg2tikzusx3dukea343
 #EXTINF:-1 tvg-id="bcu-stars" tvg-name="BCU Stars HD" tvg-logo="https://epg.iptvx.one/picons/bcu-stars.png" group-title="👀🎞 Кинозалы", BCU Stars HD
 http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
 #EXTINF:-1 tvg-id="CPS Action HD" tvg-name="CPS Action HD" tvg-logo="http://i120.fastpic.org/big/2022/0623/59/1304ae5cb58fcdcab17affbe315ec359.png" group-title="👀🎞 Кинозалы",CPS Action HD
