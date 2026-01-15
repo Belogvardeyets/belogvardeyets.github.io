@@ -152,7 +152,7 @@ http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E1:2E&stream=529668&extensi
 #EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-name="Viju TV1000 Новелла HD" tvg-logo="http://epg.one/img2/9057.png" group-title="🎥 Кино и Сериалы",Viju TV1000 Новелла HD
 http://s03.wsbof.com:8090/s/75ee07b0/viju-tv1000-nowella-hd.m3u8
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="🎥 Кино и Сериалы" tvg-logo="http://epg.one/img2/267.png",Viju TV1000 русское HD
-http://s03.wsbof.com:8090/s/75ee07b0/tv1000-russkoje-hd.m3u8
+https://vod.splay.uz/live_splay/original/TV1000rus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vip-comedy" group-title="🎥 Кино и Сериалы" tvg-logo="http://epg.one/img2/1011.png",Viju+ Comedy HD
 http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529674&extension=ts
 #EXTINF:-1 tvg-id="vip-megahit" tvg-name="Viju+ Megahit HD" tvg-logo="http://epg.one/img2/1012.png" group-title="🎥 Кино и Сериалы",Viju+ Megahit HD
