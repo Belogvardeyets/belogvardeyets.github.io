@@ -27,6 +27,8 @@ http://tv.ttk.mx:9190
 http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529397&extension=ts
 #EXTINF:-1 tvg-id="deutsche-welle-ru" tvg-name="DW Russia HD" tvg-logo="https://epg.iptvx.one/picons/deutsche-welle-ru.png" group-title="🆕 Новостные ",DW Russia HD
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
+#EXTINF:-1 tvg-id="cbc-az" tvg-name="CBC 🇦🇿" tvg-logo="https://streaming-elbrus.su/img/logos/azer/cbc-az.png" group-title="🆕 Новостные",CBC 🇦🇿
+https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
 #EXTINF:-1 tvg-id="mir-24" tvg-name="Мир 24 HD" tvg-logo="http://epg.one/img2/2078.png" group-title="🆕 Новостные ",Мир 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="izvestia" tvg-name="Известия HD" tvg-logo="http://epg.one/img2/2271.png" group-title="🆕 Новостные",Известия HD
@@ -69,6 +71,8 @@ http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529683&extensi
 http://s03.wsbof.com:8090/s/75ee07b0/amedia-hit-hd.m3u8
 #EXTINF:-1 tvg-id="bollywood-hd" tvg-name="Bollywood HD" tvg-logo="http://epg.one/img2/1395.png" group-title="🎥 Кино и Сериалы",Bollywood HD
 http://193.27.209.122/bollywood/index.m3u8
+#EXTINF:-1 tvg-id="saga-tv" tvg-name="Saga TV" tvg-logo="https://epg.iptvx.one/picons/saga-tv.png" group-title="🎥 Кино и Сериалы",Saga TV
+http://178.212.71.253:8001/play/144/index.m3u8
 #EXTINF:-1 tvg-id="bolt-ru" tvg-name="Bolt Россия HD" tvg-logo="http://epg.one/img2/2138.png" group-title="🎥 Кино и Сериалы ",Bolt Россия HD
 http://hls127.freeott.top:8080/Bolt/mono.m3u8
 #EXTINF:-1 tvg-id="DetectiveJam HD" tvg-name="DetectiveJam HD" tvg-logo="https://bcumedia.pro/storage/images/channels/34e99c519a3e8c34a371f465576125ea.png?d=1720640715" group-title="🎥 Кино и Сериалы",DetectiveJam
@@ -89,6 +93,14 @@ http://188.225.31.197/bpk-tv/000004471/tve/index.m3u8
 http://45.145.32.13:20440/hollywood_hd/index.m3u8?token=test
 #EXTINF:-1 tvg-id="kino-24" tvg-name="Kino 24" tvg-logo="http://i120.fastpic.org/big/2022/1119/92/4711bfc40c7d3d322bc0c829bf94c992.png" group-title="🎥 Кино и Сериалы ",Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i.imgur.com/ygId8ZV.png" group-title="🎥 Кино и Сериалы",Alpha Cinema HD
+http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+#EXTINF:-1 tvg-id="Киноменю HD" tvg-name="Киноменю HD" tvg-logo="https://streaming-elbrus.su/img/logos/films/kinomenu.png" group-title="🎥 Кино и Сериалы",Киноменю HD
+http://stitch.teletarget.ru/vintera/kinomenu/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMC8yMDI2IDc6NDk6NDcgUE0maGFzaF92YWx1ZT1qUlgvaDF3a2IvNkM1cWFnK3lqN2tBPT0mdmFsaWRtaW51dGVzPTQ4MA==
+#EXTINF:-1 tvg-id="kinosezon" tvg-name="КиноСезон" tvg-logo="https://iptvx.one/picons/kinosezon.png" group-title="🎥 Кино и Сериалы",КиноСезон HD
+https://stitch.teletarget.ru/vintera/movieseason/1764950731551101ef187a38512cd3d3db48c1eca37527e836ab81636ac589b9/lvl1.m3u8
+#EXTINF:-1 tvg-id="sovkino" tvg-name="Советское кино" tvg-logo="https://epg.iptvx.one/picons/sovkino.png" group-title="🎥 Кино и Сериалы",Советское кино
+http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMC8yMDI2IDc6NDk6NDcgUE0maGFzaF92YWx1ZT1qUlgvaDF3a2IvNkM1cWFnK3lqN2tBPT0mdmFsaWRtaW51dGVzPTQ4MA==
 #EXTINF:-1 tvg-id="6005" tvg-logo="http://epg.one/img2/6005.png"group-title="🎥 Кино и Сериалы",Видеокассета VHS
 http://185.57.68.33:8091/237/playlist.m3u8
 #EXTINF:-1 tvg-id="312-kino" tvg-name="312 Кино" tvg-logo="http://epg.one/img2/6654.png" group-title="🎥 Кино и Сериалы",312 Кино
@@ -136,7 +148,7 @@ http://s03.wsbof.com:8090/s/75ee07b0/vhska-hd.m3u8
 #EXTINF:-1 tvg-id="tv1000-worldkino" tvg-name="Viasat Kino World HD" tvg-logo="http://epg.one/img2/8883.png" group-title="🎥 Кино и Сериалы",Viasat Kino World HD
 http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529672&extension=ts
 #EXTINF:-1 tvg-id="vip-comedy-cee" tvg-name="Viasat Kino Comedy HD" tvg-logo="https://epg.iptvx.one/picons/vip-comedy-cee.png" group-title="🎥 Кино и Сериалы ",Viasat Kino Comedy HD
-http://tet3dgnk.russtv.net/iptv/QGP3QXDP95UFB4/31764/index.m3u8
+http://ukr2.ukrainske.tv/493/video.m3u8
 #EXTINF:-1 tvg-id="viasat-serial" tvg-name="Viasat Serial HD" tvg-logo="https://epg.iptvx.one/picons/viasat-serial.png" group-title="🎥 Кино и Сериалы",Viasat Serial HD
 http://ronaldo.tvfor.pro/hSkdthHfh3t/434exeg2tikzusx3dukea343
 #EXTINF:-1 tvg-id="tv1000-action" group-title="🎥 Кино и Сериалы" tvg-logo="http://epg.one/img2/125.png",Viju TV1000 Action HD
@@ -454,7 +466,7 @@ http://s03.wsbof.com:8090/s/75ee07b0/ocean-tv.m3u8
 #EXTINF:-1 tvg-id="9328" tvg-logo="http://epg.one/img2/9328.png" group-title="🌎✈️🚉Познавательные",VF Орел и решка
 https://homtv.ru/TnpReE56UXhRRzFoYVd3dWNuVT0/1658.m3u8
 #EXTINF:-1 tvg-id="rtg-hd" tvg-name="RTG HD" tvg-logo="http://epg.one/img2/648.png" group-title="🌎✈️🚉Познавательные" ,RTG HD
-http://194.143.148.28:8080/RTG_HD/mpegts
+http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529479&extension=ts
 #EXTINF:-1 tvg-id="2280" tvg-logo="http://epg.one/img2/2280.png" group-title="🌎✈️🚉Познавательные",RTG TV
 http://178.124.153.123:44400/rtg
 #EXTINF:-1 tvg-id="rtd-ru" tvg-name="RT Doc HD" tvg-logo="http://i115.fastpic.org/big/2021/0925/07/1703a3ef269f41bde9dda679330c9207.png" group-title="🌎✈️🚉Познавательные",RT Doc HD
@@ -480,7 +492,9 @@ http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E1:2E&stream=529514&extensi
 #EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-name="Viju+ Planet HD" tvg-logo="http://epg.one/img2/2012.png" group-title="🌎✈️🚉Познавательные",Viju+ Planet HD
 http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529489&extension=ts
 #EXTINF:-1 tvg-id="zoopark" group-title="🌎✈️🚉Познавательные" tvg-logo="https://epg.iptvx.one/picons/zoopark.png",Zooпарк
-http://178.163.121.127:4022/udp/234.0.0.216:2000
+http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529466&extension=ts
+#EXTINF:-1 tvg-id="Вопросы и ответы" group-title="🌎✈️🚉Познавательные" tvg-logo="https://bcumedia.pro/storage/images/channels/92dc087913d650611a317346d470c379.png?d=1713789315",Вопросы и ответы
+http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529467&extension=ts
 #EXTINF:-1 tvg-id="bobior" group-title="🌎✈️🚉Познавательные" tvg-logo="http://epg.one/img2/2026.png",Бобёр
 http://hls127.freeott.top:8080/Bober/mono.m3u8
 #EXTINF:-1 tvg-id="bolshaya-azia" tvg-name="Большая Азия HD" tvg-logo="http://epg.one/img2/2417.png" group-title="🌎✈️🚉Познавательные",Большая Азия HD
@@ -494,7 +508,7 @@ http://ronaldo.tvfor.pro/InsightUltraHD/434exeg2tikzusx3dukea343
 #EXTINF:-1 tvg-id="cineman-aircrash" tvg-name="CineMan Air Crash" tvg-logo="https://epg.iptvx.one/picons/cineman-aircrash.png" group-title="🌎✈️🚉Познавательные",CineMan Air Crash
 http://ip1.orgip.net/419/video.m3u8?token=Ceba8e4412
 #EXTINF:-1 tvg-id="doktor" group-title="🌎✈️🚉Познавательные" tvg-logo="https://epg.iptvx.one/picons/doktor.png",Доктор HD
-http://s03.wsbof.com:8090/s/75ee07b0/zdorovoe-tv-hd.m3u8
+http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529508&extension=ts
 #EXTINF:-1 tvg-id="domashnie-zhivotnye" tvg-name="Домашние животные" tvg-logo="http://epg.one/img2/520.png" group-title="🌎✈️🚉Познавательные",Домашние животные
 http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529714&extension=ts
 #EXTINF:-1 tvg-id="zhivaya-planeta" tvg-name="Живая планета" tvg-logo="http://epg.one/img2/2432.png" group-title="🌎✈️🚉Познавательные" ,Живая планета
@@ -563,6 +577,8 @@ http://pars01.com:8080/play/live.php?mac=00:1A:79:10:E1:2E&stream=117422&extensi
 http://s03.wsbof.com:8090/s/75ee07b0/centralnoe-tv.m3u8
 #EXTINF:-1 tvg-id="prosveschenie" tvg-name="Просвещение" tvg-logo="http://epg.it999.ru/img2/2296.png" group-title="🌎✈️🚉Познавательные",Просвещение
 http://cdn-01.bonus-tv.ru:80/prosveschenie_edge/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static.tildacdn.net/tild6563-6331-4239-b637-636534616138/1_.jpg" group-title="🌎✈️🚉Познавательные",1MED TV HD
+https://rq3qltxnbx1.a.trbcdn.net/livemaster/8hwxnq4s0v_efir0_tcode1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="okino" tvg-name="О!Кино" tvg-logo="http://epg.one/img2/9006.png" group-title="🎡Развлекательные ",О!Кино
 http://v4.proofix.ru/okino-tv/index.m3u8
 #EXTINF:-1 tvg-id="Смотрим кино и сериалы HD" tvg-name="Смотрим кино и сериалы HD" tvg-logo="http://i122.fastpic.org/big/2023/0901/2a/291decee8575825a51c2a8b9e550b92a.png" group-title="🎡Развлекательные",Смотрим кино и сериалы HD
